@@ -1,0 +1,817 @@
+{
+  "accident investigation": [
+    "accident investigation",
+    "accident investigation qualifications",
+    "accident prevention"
+  ],
+  "accounting management": ["accounting management", "accounting standard"],
+  "administration service": ["administration service"],
+  "air charter": [
+    "air charter",
+    "air charter agreement",
+    "air charter operation",
+    "air operation",
+    "air operation logistic",
+    "air production system",
+    "air traffic control",
+    "charter operation",
+    "air conditioning",
+    "air conditioning operator"
+  ],
+  "air transport": [
+    "air transport",
+    "air transport agreement",
+    "air transport operation",
+    "air transportation",
+    "air transportation project",
+    "air transportation operation"
+  ],
+  "aircraft management": [
+    "aircraft management",
+    "airfield management",
+    "airfield facilities runway",
+    "airlift operation",
+    "airline operation",
+    "airline cargo",
+    "airline passenger"
+  ],
+  "architecture related drafting": ["architecture related drafting"],
+  "armored vehicle maintenance": ["armored vehicle maintenance"],
+  "assessment process": ["assessment process", "assessment test"],
+  "asset management": ["asset management"],
+  "autocad": ["autocad", "autocad software", "auto cad"],
+  "autodesk": ["autodesk", "autodesk robot structure"],
+  "automatic building management": ["automatic building management"],
+  "automation system": ["automation system"],
+  "aviation operation": [
+    "aviation operation",
+    "aviation maintenance operation",
+    "aviation budget",
+    "aviation contract",
+    "aviation engineering",
+    "aviation industry",
+    "aviation accident prevention",
+    "aviation quality assurance",
+    "aviation quality management",
+    "aviation safety",
+    "aviation safety management"
+  ],
+  "blast mitigation feature": ["blast mitigation feature"],
+  "bms system": ["bms system"],
+  "breathing apparatus": ["breathing apparatus"],
+  "broadcasting project": ["broadcasting project"],
+  "budget monitoring": ["budget monitoring", "budgeting cycle"],
+  "building management": [
+    "building management",
+    "building management service",
+    "building management system",
+    "building material",
+    "building service",
+    "building trade",
+    "building automation system",
+    "building construction",
+    "building design",
+    "building energy management",
+    "building engineering",
+    "building control",
+    "building fabric maintenance",
+    "building maintenance",
+    "building maintenance trade"
+  ],
+  "business administration": [
+    "business administration",
+    "business administration environment",
+    "business analysis",
+    "business intelligence reporting",
+    "business practice",
+    "business relocation"
+  ],
+  "camp management project": ["camp management project"],
+  "capacity building": [
+    "capacity building",
+    "capacity building activity",
+    "capacity building institution",
+    "capacity building programme",
+    "capacity building workshop",
+    "capacity development",
+    "capacity development institute"
+  ],
+  "capital projects": ["capital projects"],
+  "carbon building design": ["carbon building design"],
+  "cargo movement": [
+    "cargo movement",
+    "cargo movement operation",
+    "cargo operation"
+  ],
+  "carpentry trade": ["carpentry trade"],
+  "carpet installation field": ["carpet installation field", "carpeting trade"],
+  "cash fund management": ["cash fund management"],
+  "catering service": ["catering service"],
+  "chain operation": ["chain operation"],
+  "change management": ["change management"],
+  "chiller plants": ["chiller plants"],
+  "city level planning": [
+    "city level planning",
+    "city extension",
+    "city context"
+  ],
+  "civil engineering": ["civil engineering"],
+  "client service delivery": ["client service delivery", "client base"],
+  "climate change": ["climate change"],
+  "commercial aviation": ["commercial aviation"],
+  "commodity management": ["commodity management"],
+  "community development": [
+    "community development",
+    "community development programme",
+    "community based organizations",
+    "community governance system",
+    "community governance concept",
+    "community banking programme"
+  ],
+  "computer software": [
+    "computer software",
+    "computer software application",
+    "computer tool",
+    "computer skill",
+    "computer programme",
+    "computer aided design",
+    "computer aided facility management",
+    "computerized hvac control"
+  ],
+  "conference building project": ["conference building project"],
+  "conflict prevention": [
+    "conflict prevention",
+    "conflict country",
+    "conflict recovery",
+    "conflict setting",
+    "conflict zone"
+  ],
+  "construction management": [
+    "construction management",
+    "construction management company",
+    "construction facility management",
+    "construction complex",
+    "construction cost",
+    "construction documentation",
+    "construction site work",
+    "construction trade",
+    "construction risk",
+    "construction firm",
+    "construction industry",
+    "construction discipline",
+    "construction labor market",
+    "construction implementation",
+    "construction project",
+    "construction project implementation",
+    "construction project supervision"
+  ],
+  "contingent owned equipment": ["contingent owned equipment"],
+  "contract administration": [
+    "contract administration",
+    "contract management",
+    "contract document",
+    "contract negotiation"
+  ],
+  "control system": ["control system", "control usage", "control wiring"],
+  "cooperation project": [
+    "cooperation project",
+    "cooperation programme design"
+  ],
+  "coordination capability": ["coordination capability"],
+  "cost recovery": ["cost recovery"],
+  "country operation": [
+    "country operation",
+    "country level",
+    "country programme",
+    "country land network"
+  ],
+  "craft field": ["craft field"],
+  "crime prevention": ["crime prevention"],
+  "crystal reports software": ["crystal reports software"],
+  "custodial services": ["custodial services"],
+  "customer relationship management": [
+    "customer relationship management",
+    "customer service"
+  ],
+  "database administration": [
+    "database administration",
+    "database management",
+    "database file",
+    "database system",
+    "database inventory system",
+    "database"
+  ],
+  "datum analysis": ["datum analysis", "datum collection"],
+  "densification activity": ["densification activity"],
+  "development project": [
+    "development project",
+    "development agency",
+    "development bank",
+    "development cooperation",
+    "development field",
+    "development issue",
+    "development partner",
+    "development planning",
+    "development policy analysis",
+    "development system",
+    "design document"
+  ],
+  "dfs property management": ["dfs property management"],
+  "disaster management": [
+    "disaster management",
+    "disaster area",
+    "disaster mitigation",
+    "disaster reconstruction context",
+    "disaster relief operation"
+  ],
+  "distribution control": ["distribution control"],
+  "driving skill": [
+    "driving skill",
+    "driving record",
+    "driving record and basic",
+    "driving licence",
+    "driving test certification"
+  ],
+  "edge software project": ["edge software project"],
+  "editing skill": ["editing skill"],
+  "electronic menu based": ["electronic menu based"],
+  "emergency management": ["emergency management"],
+  "energy policy": ["energy policy", "energy audit"],
+  "engineering project": [
+    "engineering project",
+    "engineering project management",
+    "engineering management",
+    "engineering studio",
+    "engineering support",
+    "engineering work",
+    "engineering field",
+    "engineering design",
+    "engineering design software",
+    "engineering software tool",
+    "engineering compliance standard",
+    "engineering construction project"
+  ],
+  "enterprise resource planning": [
+    "enterprise resource planning",
+    "enterprise resource",
+    "erp system",
+    "erp implementation",
+    "erp material management",
+    "knowledge of enterprise resources"
+  ],
+  "environmental procedure": ["environmental procedure"],
+  "equipment maintenance": ["equipment maintenance"],
+  "estate asset": [
+    "estate asset",
+    "estate asset management",
+    "estate management policy"
+  ],
+  "facility management": [
+    "facility management",
+    "facility management service",
+    "facilities management"
+  ],
+  "field mission": [
+    "field mission",
+    "field mission engineering",
+    "field mission support",
+    "field logistic",
+    "field logistic operation",
+    "field peacekeeping",
+    "field project",
+    "field operation",
+    "field condition",
+    "field deployment",
+    "field environment",
+    "field level",
+    "field support service",
+    "field fuel installation"
+  ],
+  "finance management": ["finance management"],
+  "fire department": [
+    "fire department",
+    "fire fighting technique",
+    "fire marshal position",
+    "fire officers",
+    "fire operation",
+    "fire service operation",
+    "fire suppression",
+    "fire vehicle"
+  ],
+  "fleet management": ["fleet management", "fleet maintenance"],
+  "food management": [
+    "food management",
+    "food production",
+    "food quality assurance",
+    "food ration operation",
+    "food safety",
+    "food safety management",
+    "food security",
+    "food service management",
+    "food technology"
+  ],
+  "forecasting requirement": ["forecasting requirement"],
+  "forklift operator": ["forklift operator"],
+  "freight management": ["freight management", "freight forwarding"],
+  "fuel operation": [
+    "fuel operation",
+    "fuel handling procedure",
+    "fuel equipment",
+    "fuel contract administration",
+    "fuel quality standard",
+    "fuel supply",
+    "fuel supply operation"
+  ],
+  "fund raising": ["fund raising"],
+  "galileo application": [
+    "galileo application",
+    "galileo inventory",
+    "gender mainstreaming"
+  ],
+  "gender equality": [
+    "gender equality",
+    "gender equality issue",
+    "gender dimension",
+    "gender policy",
+    "general service"
+  ],
+  "generator installation": ["generator installation"],
+  "geoinformation project management": ["geoinformation project management"],
+  "glass cockpit": ["glass cockpit"],
+  "government administration": [
+    "government administration",
+    "government official",
+    "government aviation project",
+    "government petroleum operation"
+  ],
+  "ground support operations": [
+    "ground support operations",
+    "ground transport operation"
+  ],
+  "heating system": ["heating system"],
+  "housing market study": [
+    "housing market study",
+    "housing delivery",
+    "housing policy",
+    "housing policy issue"
+  ],
+  "human settlements": ["human settlements"],
+  "iata rule": ["iata rule"],
+  "icao standard": ["icao standard"],
+  "ict initiative": ["ict initiative"],
+  "implementation phase": ["implementation phase"],
+  "incident commander": ["incident commander"],
+  "ineed system": ["ineed system"],
+  "information technology": [
+    "information technology",
+    "it project",
+    "information packaging",
+    "information system"
+  ],
+  "infrastructure design": ["infrastructure design"],
+  "integrated water resources": ["integrated water resources"],
+  "interagency field office": ["interagency field office"],
+  "international civil aviation": ["international civil aviation"],
+  "inventory management": [
+    "inventory management",
+    "inventory management solution",
+    "inventory management system",
+    "inventory management technique",
+    "inventory control",
+    "inventory control management",
+    "inventory control practice",
+    "inventory compliance requirement"
+  ],
+  "invoicing management": ["invoicing management", "invoice management"],
+  "ipsas accounting": ["ipsas accounting", "ipsas implementation"],
+  "jmcc function": ["jmcc function"],
+  "johnson controls metasys": ["johnson controls metasys"],
+  "joint operations centre": [
+    "joint operations centre",
+    "joint support operations",
+    "joint logistics operations"
+  ],
+  "kpi monitoring": ["kpi monitoring"],
+  "land administration": [
+    "land administration",
+    "land management",
+    "land management system",
+    "land issue",
+    "land sector",
+    "land use planning",
+    "land policy",
+    "land policy development"
+  ],
+  "leadership ability": [
+    "leadership ability",
+    "leadership level",
+    "leadership skill"
+  ],
+  "lighting control": ["lighting control"],
+  "liquidation operation": ["liquidation operation", "liquidation activity"],
+  "logistic management": [
+    "logistic management",
+    "logistic execution",
+    "logistic function",
+    "logistic plant",
+    "logistic service",
+    "logistic team",
+    "logistic training",
+    "logistics base",
+    "logistics directives",
+    "logistic operation",
+    "logistic operation petroleum",
+    "logistic supply operation",
+    "logistics operation",
+    "logistics planning",
+    "logistic support",
+    "logistic support operation",
+    "logistical support",
+    "logistics support",
+    "logistics support operation",
+    "logistic planning"
+  ],
+  "lotus notes database": ["lotus notes database", "lotus notes"],
+  "lubricant operation": ["lubricant operation"],
+  "mail operation": ["mail operation"],
+  "maintenance project": [
+    "maintenance project",
+    "maintenance service",
+    "maintenance technique",
+    "maintenance equipment",
+    "maintenance field"
+  ],
+  "management information": [
+    "management information",
+    "management information system",
+    "management level",
+    "management position",
+    "management tool",
+    "managing team",
+    "managing contract",
+    "management understanding"
+  ],
+  "maritime task force": ["maritime task force"],
+  "master data management": ["master data management"],
+  "master electrician": ["master electrician"],
+  "material management": ["material management"],
+  "mechanical engineering": ["mechanical engineering"],
+  "mechanical electro system": ["mechanical electro system"],
+  "mechanized handling equipment": ["mechanized handling equipment"],
+  "mercury system": ["mercury system"],
+  "microsoft office": [
+    "microsoft office",
+    "microsoft office application",
+    "microsoft application",
+    "microsoft project",
+    "microsoft word",
+    "ms office",
+    "ms office application",
+    "ms project",
+    "power point"
+  ],
+  "military transport units": ["military transport units"],
+  "mission support operation": [
+    "mission support operation",
+    "mission context",
+    "mission level"
+  ],
+  "mobility project": ["mobility project"],
+  "motor vehicle": [
+    "motor vehicle",
+    "motor vehicle regulation",
+    "motor vehicle transport",
+    "motor vehicle transportation",
+    "motor vehicle transport operation"
+  ],
+  "movement control": [
+    "movement control",
+    "movement control operation",
+    "movement control units",
+    "movement operation"
+  ],
+  "multimodal transport operation": [
+    "multimodal transport operation",
+    "multimodal transportation"
+  ],
+  "multitask service contract": ["multitask service contract"],
+  "network support": ["network support", "network establishment"],
+  "ocean affair": ["ocean affair"],
+  "office space management": [
+    "office space management",
+    "office design",
+    "office space planning",
+    "office facility",
+    "office relocation",
+    "office accommodation",
+    "office equipment maintenance",
+    "office support",
+    "office automation equipment"
+  ],
+  "oil industry": ["oil industry"],
+  "operation management": [
+    "operation management",
+    "operating condition",
+    "operating procedure",
+    "operation support"
+  ],
+  "order tracking": ["order tracking"],
+  "park maintenance": ["park maintenance"],
+  "part management": ["part management", "part company"],
+  "participatory planning": ["participatory planning"],
+  "partnership building": ["partnership building"],
+  "passenger operation": ["passenger operation"],
+  "peacekeeping": [
+    "peacekeeping",
+    "peace building",
+    "peace operation",
+    "peacekeeping environment",
+    "peacekeeping field",
+    "peacekeeping field mission",
+    "peacekeeping force",
+    "peacekeeping mission",
+    "peacekeeping nature",
+    "peacekeeping operation"
+  ],
+  "performance datum": [
+    "performance datum",
+    "performance measurement",
+    "performance monitoring"
+  ],
+  "petroleum industry": ["petroleum industry"],
+  "planning authority": [
+    "planning authority",
+    "planning context",
+    "planning initiative",
+    "planning issue",
+    "planning logistic operation",
+    "planning tool",
+    "planning practice",
+    "planning policy analysis"
+  ],
+  "plant engineering section": ["plant engineering section"],
+  "plate production process": ["plate production process"],
+  "plumbing trade": ["plumbing trade", "plumbing work", "plumbing equipment"],
+  "pol operation": ["pol operation"],
+  "police logistic support": [
+    "police logistic support",
+    "police component",
+    "police contributing countries",
+    "police organisation",
+    "police peacekeeping operation"
+  ],
+  "policy development": [
+    "policy development",
+    "policy development work",
+    "policy formulation",
+    "policy analysis",
+    "policy dialogue",
+    "policy document",
+    "policy guidance",
+    "policy recommendation"
+  ],
+  "port operation": ["port operation"],
+  "power generation": [
+    "power generation",
+    "power supply installation",
+    "power tool"
+  ],
+  "process reengineering": ["process reengineering"],
+  "procurement process": [
+    "procurement process",
+    "procurement policy",
+    "procurement rule"
+  ],
+  "program management": [
+    "program management",
+    "programme management",
+    "programme acquisition",
+    "programme design",
+    "programme development",
+    "programme formulation",
+    "programme performance assessment"
+  ],
+  "project management": [
+    "project management",
+    "project management application",
+    "project management certification",
+    "project management methodology",
+    "project management professional",
+    "project management software",
+    "project management tool",
+    "project administration",
+    "project manager",
+    "project evaluation",
+    "project planning",
+    "project proposal",
+    "project design",
+    "project implementation"
+  ],
+  "property disposal management": [
+    "property disposal management",
+    "property disposal"
+  ],
+  "property management": [
+    "property management",
+    "property management framework",
+    "property management inclusive",
+    "property management policy",
+    "property management service",
+    "property right",
+    "property survey",
+    "property control"
+  ],
+  "public participatory geographic": ["public participatory geographic"],
+  "publishing operation": ["publishing operation"],
+  "pumping equipment": ["pumping equipment"],
+  "quality management": [
+    "quality management",
+    "quality management system",
+    "quality assurance",
+    "quality assurance process",
+    "quality control",
+    "quality control procedure",
+    "quality standard certification"
+  ],
+  "rail operation": ["rail operation"],
+  "rationing system": [
+    "rationing system",
+    "ration contract",
+    "rations contract",
+    "rations contracts",
+    "rations operation"
+  ],
+  "real estate management": ["real estate management"],
+  "refrigeration installation": [
+    "refrigeration installation",
+    "refrigeration operation license",
+    "refrigeration operator licence"
+  ],
+  "rehabilitation project": ["rehabilitation project"],
+  "renovation project": ["renovation project"],
+  "repair work": ["repair work"],
+  "report writing": ["report writing"],
+  "research analyst": ["research analyst"],
+  "resource management": [
+    "resource management",
+    "resource sharing initiative",
+    "resource mobilization",
+    "resource planning",
+    "resourcing framework"
+  ],
+  "risk mitigation": ["risk mitigation", "risk reduction"],
+  "road pavement": ["road pavement"],
+  "safety management program": [
+    "safety management program",
+    "safety risk assessment"
+  ],
+  "sanitation development": [
+    "sanitation development",
+    "sanitation engineering",
+    "sanitation project",
+    "sanitation sector"
+  ],
+  "sap enterprise": ["sap enterprise", "sap travel module"],
+  "scale peacekeeping operation": [
+    "scale peacekeeping operation",
+    "scale contract",
+    "scale air",
+    "scale good",
+    "scale procurement"
+  ],
+  "schedule control": ["schedule control"],
+  "sea transport": [
+    "sea transport",
+    "sea transport operation",
+    "sea transportation"
+  ],
+  "security environment": [
+    "security environment",
+    "security equipment",
+    "security firm",
+    "security risk environment"
+  ],
+  "service administrator": [
+    "service administrator",
+    "service industry",
+    "service provision",
+    "service receipt",
+    "service delivery",
+    "service contract",
+    "service contractor",
+    "service provider"
+  ],
+  "settlement development": [
+    "settlement development",
+    "settlement development field",
+    "settlement background",
+    "settlement infrastructure",
+    "settlement policy analysis",
+    "settlement project",
+    "settlement project design",
+    "settlement issue"
+  ],
+  "shipping operation": ["shipping operation"],
+  "shop drawing review": ["shop drawing review"],
+  "sit cycle": ["sit cycle"],
+  "slum upgrading": [
+    "slum upgrading",
+    "slum dweller",
+    "slum upgrading field",
+    "slum upgrading policy",
+    "slum community"
+  ],
+  "space planning": ["space planning", "space planning work"],
+  "sprinkler system": ["sprinkler system"],
+  "stock management": ["stock management"],
+  "store management": ["store management"],
+  "structural design software": ["structural design software"],
+  "supply chain management": [
+    "supply chain management",
+    "supply chain",
+    "supply assistants",
+    "supply chain operation",
+    "supply chain service",
+    "supply management",
+    "supply change management",
+    "supply need",
+    "supply service",
+    "supply support",
+    "supply operation"
+  ],
+  "support operation": [
+    "support operation",
+    "support matter",
+    "support service",
+    "support assessment test",
+    "support logistic operation"
+  ],
+  "surface transport management": [
+    "surface transport management",
+    "surface transportation management",
+    "surface transport operation"
+  ],
+  "surveillance supervision": [
+    "surveillance supervision",
+    "surveillance activity"
+  ],
+  "system field operation": ["system field operation"],
+  "system testing": ["system testing", "system integration"],
+  "technical cooperation": ["technical cooperation"],
+  "telecommunications equipment": ["telecommunications equipment"],
+  "tenure security": ["tenure security"],
+  "tpt training": ["tpt training"],
+  "track record": ["track record", "tracking software data"],
+  "training activity": ["training activity"],
+  "transition country activity": ["transition country activity"],
+  "transport management": [
+    "transport management",
+    "transport equipment",
+    "transport enablers",
+    "transport asset",
+    "transport provision",
+    "transport service",
+    "transport units",
+    "transportation management",
+    "transportation association",
+    "transportation resource",
+    "transport category aircraft",
+    "transport ground transportation",
+    "transport planning",
+    "transport policy development",
+    "transport policy choice",
+    "transportation operation"
+  ],
+  "troop rotation": ["troop rotation"],
+  "urban development": ["urban development", "urban basic services"],
+  "vendor management": [
+    "vendor management",
+    "value vehicle acquisition",
+    "vehicle fleet management",
+    "vehicle maintenance",
+    "vehicle regulation",
+    "vehicle safety"
+  ],
+  "volume transportation programme": ["volume transportation programme"],
+  "warehouse management": ["warehouse management", "warehouse operation"],
+  "wash sector": ["wash sector"],
+  "waste water treatment": [
+    "waste water treatment",
+    "water system",
+    "water supplies",
+    "water air conditioning",
+    "water operators partnership"
+  ],
+  "woodwork project": ["woodwork project"],
+  "word processing assistant": ["word processing assistant"],
+  "writing skill": ["writing skill", "writing sow"],
+  "young professionals programme": [
+    "young professionals programme",
+    "ypp",
+    "ypp candidate",
+    "youth empowerment programme",
+    "youth issue",
+    "youth organization",
+    "youth project"
+  ]
+}

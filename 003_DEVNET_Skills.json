@@ -1,0 +1,984 @@
+{
+  "action management": [
+    "action management",
+    "action campaign",
+    "action plan",
+    "action project management"
+  ],
+  "adobe photoshop": ["adobe photoshop", "adobe flash", "adobe illustrator"],
+  "advocacy campaign": [
+    "advocacy campaign",
+    "advocacy organization",
+    "advocacy work"
+  ],
+  "aids prevention programme": [
+    "aids prevention programme",
+    "aids prevention",
+    "managing hiv/aids prevention",
+    "hiv prevention"
+  ],
+  "air pollution": ["air pollution", "air conditioning system"],
+  "banking governance": [
+    "banking governance",
+    "development bank",
+    "development banking"
+  ],
+  "biodiversity conservation": [
+    "biodiversity conservation",
+    "biological diversity"
+  ],
+  "border management": ["border management"],
+  "budget": [
+    "budget",
+    "budgeting process",
+    "budget execution",
+    "budget formulation",
+    "budget formulation module",
+    "budget issue",
+    "budget management",
+    "budget monitoring system",
+    "budget performance submission",
+    "budget planning",
+    "budget preparation",
+    "budget proposal",
+    "budget supervision",
+    "budgetary questions",
+    "budgeting methodology",
+    "budgeting policy",
+    "budgeting process"
+  ],
+  "building management": ["building management"],
+  "business adminisitration": ["business adminisitration"],
+  "business continuity management": [
+    "business continuity management",
+    "business continuity plan",
+    "business continuity planning"
+  ],
+  "capacity building": [
+    "capacity building",
+    "capacity building activity",
+    "capacity building assistance",
+    "capacity building event",
+    "capacity building initiative",
+    "capacity building issue",
+    "capacity building programme",
+    "capacity building project",
+    "capacity buildingproject",
+    "capacity development",
+    "capacity development activity",
+    "capacity development building",
+    "capacity development programme",
+    "capacity development project",
+    "capacity development tool",
+    "capacity-building"
+  ],
+  "change management": [
+    "change management",
+    "change management initiative",
+    "change management principle",
+    "change management process",
+    "change management project"
+  ],
+  "chemical management": [
+    "chemical management",
+    "chemical control",
+    "chemical safety"
+  ],
+  "citizen engagement": ["citizen engagement", "citizenship issue"],
+  "civil service": ["civil service", "civil society organization"],
+  "clean energy technology ": [
+    "clean energy technology",
+    "energy efficiency",
+    "energy field",
+    "energy finance",
+    "energy indicator",
+    "energy industry",
+    "energy issue",
+    "energy management",
+    "energy matter",
+    "energy policy",
+    "energy production",
+    "energy research",
+    "energy resource development",
+    "energy sector",
+    "energy security",
+    "energy statistic",
+    "energy subsector",
+    "energy technology",
+    "sustainable energy",
+    "management of energy technology projects",
+    "managing energy-related programs"
+  ],
+  "client relationship management": ["client relationship management"],
+  "climate change": [
+    "climate change",
+    "climate change adaptation",
+    "climate change assessment",
+    "climate change challenge",
+    "climate change economic",
+    "climate change issue",
+    "climate change mitigation",
+    "climate change policy",
+    "climate change project",
+    "climate change strategy",
+    "climate finance",
+    "climate information",
+    "climate issue",
+    "climate mitigation policy",
+    "climate pollutant",
+    "climate projection",
+    "climate risk",
+    "climate science",
+    "climate trust fund",
+    "climate vulnerability assessment"
+  ],
+  "commodity trade": [
+    "commodity trade",
+    "commodity market",
+    "commodity risk management"
+  ],
+  "communications technology": [
+    "communications technology",
+    "communication plan",
+    "communication project",
+    "communication software",
+    "communication source",
+    "communication strategy",
+    "communication support",
+    "communication technology",
+    "communication tool",
+    "communication work"
+  ],
+  "conference management": [
+    "conference management",
+    "conference organization",
+    "conference policy",
+    "conference preparation",
+    "conference procedure",
+    "conference service",
+    "conference servicing",
+    "conference support"
+  ],
+  "conflict analysis": [
+    "conflict analysis",
+    "conflict prevention",
+    "conflict reconstruction",
+    "conflict recovery",
+    "conflict resolution"
+  ],
+  "construction administration": [
+    "construction administration",
+    "construction management",
+    "construction project",
+    "construction work"
+  ],
+  "content management": ["content management", "content management system"],
+  "cooperation project management": [
+    "cooperation project management",
+    "cooperation project",
+    "cooperation programme planning",
+    "cooperation programme",
+    "cooperation mechanism",
+    "cooperation implementation"
+  ],
+  "cost control": [
+    "cost control",
+    "cost estimate",
+    "cost plan",
+    "cost recovery"
+  ],
+  "crime control": [
+    "crime control",
+    "crime control policy",
+    "crime control strategy",
+    "crime datum",
+    "crime field",
+    "crime investigation unit",
+    "crime issue",
+    "crime law",
+    "crime or terrorism prevention",
+    "crime prevention",
+    "crime prevention control",
+    "crime prevention issue",
+    "crime prevention programme",
+    "crime prevention project",
+    "crime research",
+    "crime statistic",
+    "crime trend",
+    "crime work",
+    "criminal justice",
+    "criminal matters"
+  ],
+  "crisis management": [
+    "crisis management",
+    "crisis context",
+    "crisis response operation",
+    "crisis setting"
+  ],
+  "CRM": ["crm", "customer relationship management"],
+  "crop cultivation": ["crop cultivation", "crop monitoring"],
+  "database application": [
+    "database application",
+    "database development",
+    "database development software",
+    "database management",
+    "database management application",
+    "database management software",
+    "database management tool",
+    "database skill",
+    "database software",
+    "database system"
+  ],
+  "datum analysis": [
+    "datum analysis",
+    "datum analysis",
+    "datum base",
+    "datum capture technology",
+    "datum capturing",
+    "datum collection",
+    "datum collection programme",
+    "datum collection survey",
+    "datum compilation",
+    "datum dissemination",
+    "datum management",
+    "datum management system",
+    "datum manipulation",
+    "datum platform",
+    "datum presentation skill",
+    "datum processing",
+    "datum programme",
+    "datum protection protocol",
+    "datum research",
+    "datum set",
+    "datum software",
+    "datum source",
+    "datum visualization tool"
+  ],
+  "debt management": [
+    "debt management",
+    "debt portfolio analysis",
+    "debt sustainability analysis",
+    "debt instrument"
+  ],
+  "demographic analysis": ["demographic analysis", "demographic statistics"],
+  "development policy": [
+    "development policy",
+    "development policy analysis",
+    "development policy design",
+    "development policy formulation",
+    "development policy issue",
+    "development policy research",
+    "development policymaking"
+  ],
+  "disability programmme implementation": [
+    "disability programmme implementation",
+    "disability related programmes",
+    "disability issue"
+  ],
+  "disaster management": [
+    "disaster management",
+    "disaster aid issue",
+    "disaster mitigation",
+    "disaster preparedness",
+    "disaster reconstruction context",
+    "disaster response",
+    "disaster response field",
+    "disaster risk assessment",
+    "disaster risk financing",
+    "disaster risk management",
+    "disaster risk reduction",
+    "disaster situation"
+  ],
+  "donor coordination": [
+    "donor coordination",
+    "donor assistance",
+    "donor community",
+    "donor agency",
+    "donor organization",
+    "donor relation",
+    "donor reporting",
+    "donor requirement",
+    "multidonor trust fund"
+  ],
+  "drafting official speeches": ["drafting official speeches"],
+  "drug control": [
+    "drug control",
+    "drug control activity",
+    "drug control issue",
+    "drug control objective",
+    "drug control policy",
+    "drug control sector",
+    "drug control treaty",
+    "drug convention",
+    "drug datum",
+    "drug demand",
+    "drug demand reduction",
+    "drug dependence treatment",
+    "drug epidemiology",
+    "drug information system",
+    "drug law enforcement",
+    "drug prevention",
+    "drug production",
+    "drug research",
+    "drug statistic",
+    "drug supply reduction",
+    "drug trafficking",
+    "drug treatment",
+    "drug treatment training",
+    "drug use disorder",
+    "drug analysis"
+  ],
+  "economic development": [
+    "economic development",
+    "economic development research",
+    "economicdevelopment programme",
+    "economicdevelopment research",
+    "socio economic development"
+  ],
+  "egovernment development": [
+    "egovernment development",
+    "egovernment policy",
+    "egovernment survey"
+  ],
+  "emergency management": [
+    "emergency management",
+    "emergency preparedness",
+    "emergency relief management"
+  ],
+  "enterprise project management": [
+    "enterprise project management",
+    "enterprise risk management"
+  ],
+  "environment management": [
+    "environment management",
+    "environment issue",
+    "environment governance",
+    "environment policy",
+    "environment programme",
+    "environment sector",
+    "environment statistic",
+    "global environment facility",
+    "global environment fund",
+    "management of environment projects"
+  ],
+  "environmental management": [
+    "environmental management",
+    "environmental policy negotiations",
+    "environmental project",
+    "environmental remediation",
+    "environmental science",
+    "environmentaleconomic accounting"
+  ],
+  "eroom document management": ["eroom document management"],
+  "ERP": [
+    "erp",
+    "erp design",
+    "erp implementation",
+    "erp system implementation",
+    "erp upgrade",
+    "enterprise resource planning"
+  ],
+  "event management": ["event management"],
+  "finance management": ["finance management"],
+  "financial information management": [
+    "financial information management",
+    "geographic information infrastructures",
+    "geographical information system",
+    "geoinformation management technology"
+  ],
+  "fire alarm installation": ["fire alarm installation", "firearm control"],
+  "fiscal policy design": ["fiscal policy design"],
+  "food security": ["food security", "food security analysis"],
+  "forestry management": ["forestry management", "forest biodiversity"],
+  "framework analysis": ["framework analysis", "framework development"],
+  "fund management": [
+    "fund management",
+    "fund raising",
+    "forest economic",
+    "forest economics",
+    "forest issue",
+    "forest management",
+    "forest policy",
+    "forest policy development",
+    "forest sector",
+    "forest sector issue",
+    "forestry practice",
+    "forestry resource",
+    "sustainable forest management"
+  ],
+  "funding agency": ["funding agency", "fund-raising", "framework methology"],
+  "funding agency official": [
+    "funding agency official",
+    "funds management",
+    "fund mobilization",
+    "fund raising activity"
+  ],
+  "grants management": ["grants management"],
+  "housing census": ["housing census", "population census", "household survey"],
+  "human settlements programme": ["human settlements programme"],
+  "gender analysis": [
+    "gender analysis",
+    "gender audits",
+    "gender equality",
+    "gender equity",
+    "gender index",
+    "gender indicator",
+    "gender issue",
+    "gender justice",
+    "gender machinery",
+    "gender mainstreaming",
+    "gender perspective",
+    "gender planning",
+    "gender programme",
+    "gender research",
+    "gender sensitivity",
+    "gender statistics"
+  ],
+  "human trafficking": [
+    "human trafficking",
+    "humanitarian affairs",
+    "humanitarian programme management"
+  ],
+  "industrial management": [
+    "industrial management",
+    "industry development programme"
+  ],
+  "inequality analysis": ["inequality analysis"],
+  "information communication": [
+    "information communication",
+    "information dissemination"
+  ],
+  "information management": [
+    "information management",
+    "information management initiative"
+  ],
+  "infrastructure management": [
+    "infrastructure management",
+    "infrastructure analysis"
+  ],
+  "interagency activity": [
+    "interagency activity",
+    "interagency affair",
+    "information management programme",
+    "information management system",
+    "management information system",
+    "information system management",
+    "integrated management information",
+    "information service delivery"
+  ],
+  "intergovernmental work": [
+    "intergovernmental work",
+    "inter-governmental work",
+    "infrastructure finance system",
+    "infrastructure financing",
+    "infrastructure issue",
+    "infrastructure planning",
+    "infrastructure service",
+    "infrastructure service policy"
+  ],
+  "international affairs": [
+    "international affairs",
+    "international relations",
+    "interagency collaboration",
+    "interagency collaboration mechanism",
+    "interagency cooperation",
+    "interagency coordination",
+    "interagency negotiation",
+    "un interagency coordination"
+  ],
+  "international diplomacy": ["international diplomacy"],
+  "international economic policy-making": [
+    "international economic policy-making",
+    "international economic relations",
+    "international public sector accounting standards",
+    "international financial institutions"
+  ],
+  "International Mine Action Standards": [
+    "international mine action standards",
+    "international mine action"
+  ],
+  "international taxation": [
+    "international taxation",
+    "ipsas",
+    "inventory accounting"
+  ],
+  "international trade": ["international trade", "international trade centre"],
+  "inventory management": [
+    "inventory management",
+    "inventory management preparation"
+  ],
+  "investigation management": [
+    "investigation management",
+    "international investment",
+    "international investment agreements",
+    "investment issue",
+    "investment policy",
+    "investment policy formulation",
+    "investment promotion"
+  ],
+  "justice reform programme": [
+    "justice reform programme",
+    "justice practice",
+    "justice operation",
+    "justice system",
+    "justice standard",
+    "justice reform"
+  ],
+  "labour market policy": ["labour market policy"],
+  "land policy": [
+    "land policy",
+    "land policy development",
+    "land policy formulation",
+    "land policy issue",
+    "land administration strategy",
+    "land management"
+  ],
+  "law enforcement": [
+    "law enforcement",
+    "law enforcement matter",
+    "law enforcement officer",
+    "law enforcement operation",
+    "law enforcement organization",
+    "law enforcement programme",
+    "law enforcement project",
+    "law enforcement service",
+    "law enforcement situation",
+    "law enforcement training",
+    "law investigation",
+    "law issue",
+    "law jurisdiction",
+    "law matter",
+    "law reform"
+  ],
+  "legal advisory services": [
+    "legal advisory services",
+    "legal research",
+    "legislation formulation"
+  ],
+  "logistic operation": [
+    "logistic operation",
+    "logistic planning",
+    "logistic service"
+  ],
+  "macroeconomic analysis": [
+    "macroeconomic analysis",
+    "macroeconomic models",
+    "macroeconomic policy"
+  ],
+  "maintaining Content Management Systems": [
+    "maintaining content management systems"
+  ],
+  "management analysis": ["management analysis"],
+  "management of chemicals": ["management of chemicals"],
+  "management of Grants": ["management of grants"],
+  "management of natural resources": ["management of natural resources"],
+  "managing staff ": ["managing staff", "managing team"],
+  "marine conservation": [
+    "marine conservation",
+    "marine environment",
+    "marine strategy framework"
+  ],
+  "microsoft access database": [
+    "microsoft access database",
+    "microsoft access"
+  ],
+  "microsoft excel": ["microsoft excel", "ms excel"],
+  "microsoft office": [
+    "microsoft office",
+    "microsoft office application",
+    "microsoft office programme",
+    "microsoft office suites"
+  ],
+  "microsoft word": [
+    "microsoft word",
+    "ms office word",
+    "ms word",
+    "word processing application",
+    "word processing spreadsheet",
+    "word processing"
+  ],
+  "millennium ecosystem assessment": ["millennium ecosystem assessment"],
+  "mineral policy formulation": [
+    "mineral policy formulation",
+    "mineral policy research"
+  ],
+  "money laundering investigation": [
+    "money laundering investigation",
+    "money laundering case",
+    "money laundering issue",
+    "money laundering",
+    "antimoney laundering",
+    "laundering investigation"
+  ],
+  "mountain development": ["mountain development", "mountain governance"],
+  "ms access": ["ms access", "ms access", "ms access software"],
+  "ms application": [
+    "ms application",
+    "ms office",
+    "ms office application",
+    "ms office program"
+  ],
+  "ms project": ["ms project", "ms project"],
+  "national communication project": [
+    "national communication project",
+    "national communications",
+    "national communications portfolio"
+  ],
+  "peace-building": [
+    "peace-building",
+    "peacebuilding research",
+    "peacekeeping",
+    "peacekeeping mission",
+    "peacekeeping mission environment",
+    "peacekeeping operation",
+    "peacekeeping operations",
+    "peacekeeping organization",
+    "peacekeeping situation",
+    "peacemaking context"
+  ],
+  "pension management": ["pension management"],
+  "planning drug treatment": ["planning drug treatment"],
+  "planning economic": ["planning economic", "economic planning"],
+  "poject budget management": ["poject budget management"],
+  "policy implementation": [
+    "policy implementation",
+    "policy formulation",
+    "policy work",
+    "policy analysis",
+    "policy analysis institution",
+    "policy analysis of international human rights",
+    "policy analysis skill",
+    "policy analyst",
+    "policy brief",
+    "policy briefing",
+    "policy capacity building",
+    "policy challenge",
+    "policy change",
+    "policy cooperation",
+    "policy coordination",
+    "policy design",
+    "policy development",
+    "policy dialogue",
+    "policy document"
+  ],
+  "population analysis": ["population analysis", "population research"],
+  "position management": ["position management"],
+  "postconflict programme management": [
+    "postconflict programme management",
+    "postconflict project",
+    "postconflict recovery",
+    "postconflict strategy",
+    "postconflict field operation"
+  ],
+  "poverty reduction": ["poverty reduction"],
+  "power point": ["power point", "power point presentation"],
+  "prison reform": [
+    "prison reform",
+    "prison reform matter",
+    "prison setting",
+    "prison staff training"
+  ],
+  "program management": [
+    "program management",
+    "programme activity",
+    "programme administration",
+    "programme budget",
+    "programme budget preparation",
+    "programme coordination",
+    "programme design",
+    "programme formulation",
+    "programme implementation",
+    "programme management",
+    "programme monitoring",
+    "programme operation",
+    "programme operationsand administration",
+    "programme performance document",
+    "programme performance monitoring",
+    "programme planning",
+    "programme policy",
+    "programme proposal",
+    "programme support",
+    "programming management"
+  ],
+  "project programme management": [
+    "project programme management",
+    "project delivery",
+    "project design",
+    "project document",
+    "project drafting",
+    "project execution",
+    "project financing",
+    "project formulation",
+    "project fund management",
+    "project implementation",
+    "project implementation procedure",
+    "project management"
+  ],
+  "prosecution service": [
+    "prosecution service",
+    "prosecution activity",
+    "project proposal concept",
+    "project resource management",
+    "project revision",
+    "project risk assessment",
+    "project schedule",
+    "project selection",
+    "project summary",
+    "project support"
+  ],
+  "public administration": ["public administration"],
+  "quality control": ["quality control", "quality assurance"],
+  "rehabilitation project": [
+    "rehabilitation project",
+    "rehabilitation activity",
+    "quality assurance programme"
+  ],
+  "relief coordination": ["relief coordination", "rehabilitation issue"],
+  "report drafting": ["report drafting", "drafting report"],
+  "research management": [
+    "research management",
+    "research and analysis",
+    "report writing"
+  ],
+  "resource management": ["resource management", "resource analysis"],
+  "risk analysis": [
+    "risk analysis",
+    "risk assessment",
+    "resource management ability",
+    "resource management context",
+    "resource management initiative",
+    "resource management policy",
+    "resource management research"
+  ],
+  "road safety development": [
+    "road safety development",
+    "road infrastructure",
+    "risk indicator",
+    "risk management",
+    "risk management issue",
+    "risk mitigation",
+    "risk reduction",
+    "risk reduction training"
+  ],
+  "SAP": [
+    "sap",
+    "sap implementation",
+    "road safety improvement",
+    "road traffic safety",
+    "road transport",
+    "road transport operation",
+    "road transport service"
+  ],
+  "sas statistical package": [
+    "sas statistical package",
+    "sap supply chain",
+    "sap platform"
+  ],
+  "scale capacity building": [
+    "scale capacity building",
+    "scale implementation"
+  ],
+  "science capacity building": [
+    "science capacity building",
+    "science research protocol",
+    "scale programme",
+    "scale training programme"
+  ],
+  "seasonal forecasts": ["seasonal forecasts"],
+  "secretariat administration": [
+    "secretariat administration",
+    "secretariat process"
+  ],
+  "security management": [
+    "security management",
+    "security operation",
+    "security sector management"
+  ],
+  "service management": [
+    "service management",
+    "service delivery",
+    "service improvement",
+    "security setting",
+    "security study"
+  ],
+  "share point": ["share point"],
+  "socio-economic data analysis": [
+    "socio-economic data analysis",
+    "socioeconomic programme",
+    "sociological research"
+  ],
+  "solid project management": [
+    "solid project management",
+    "socioeconomic analysis"
+  ],
+  "sound ecosystem management": ["sound ecosystem management"],
+  "sql database": ["sql database", "sql programming", "sql server"],
+  "staff development": [
+    "staff development",
+    "staff development activity",
+    "staff counselling",
+    "sql server database"
+  ],
+  "stakeholder engagement": [
+    "stakeholder engagement",
+    "stakeholder engagement process",
+    "stakeholder analysis"
+  ],
+  "statistic analysis programme": [
+    "statistic analysis programme",
+    "stata software",
+    "state security forces",
+    "statistical package programme",
+    "statistical software",
+    "statistic data",
+    "statistic indicator",
+    "statistic office",
+    "statistic policy",
+    "statistic production",
+    "statistic software package",
+    "statistic work",
+    "statistical analysis",
+    "statistical data",
+    "statistical methods",
+    "statistical package programme",
+    "statistical software"
+  ],
+  "strategic programme development": [
+    "strategic programme development",
+    "strategy analysis",
+    "strategy anddevelopment programme",
+    "strategy design",
+    "strategy development",
+    "strategy document",
+    "strategy document formulation",
+    "strategy paper",
+    "strategy setting"
+  ],
+  "supply chain management": [
+    "supply chain management",
+    "trade supply chain",
+    "supply chain logistics"
+  ],
+  "sustainable agriculture": [
+    "sustainable agriculture",
+    "agricultural development",
+    "agricultural policy",
+    "agricultural economics"
+  ],
+  "tax administration": ["tax administration"],
+  "telecommunications systems": [
+    "telecommunications systems",
+    "telecommunication regulation",
+    "telecommunications"
+  ],
+  "terrorism prevention": ["terrorism prevention", "terrorism financing case"],
+  "tourism development programme": [
+    "tourism development programme",
+    "tourism sector"
+  ],
+  "trade policy": [
+    "trade policy",
+    "trade policy area",
+    "trade policy design",
+    "trade policy formulation",
+    "trade policy issue",
+    "trade policy measure",
+    "trade promotion",
+    "trade relation",
+    "trade research",
+    "trade statistic",
+    "trade negotiation",
+    "trade agreement",
+    "trade analysis",
+    "trade datum analysis",
+    "trade development"
+  ],
+  "transport administration": [
+    "transport administration",
+    "transport sector",
+    "transport development",
+    "transport development programme",
+    "transport facilitation",
+    "transport infrastructure",
+    "transport infrastructure development",
+    "transport issue",
+    "transport planning",
+    "transport policymaking",
+    "transport research"
+  ],
+  "travel management": [
+    "travel management",
+    "travel arrangement",
+    "travel authorization"
+  ],
+  "trust fund management": ["trust fund management", "trust fund"],
+  "un budget planning": [
+    "un budget planning",
+    "un budget preparation",
+    "un budget"
+  ],
+  "un development activity": [
+    "un development activity",
+    "un development system",
+    "un development work"
+  ],
+  "un field mission": [
+    "un field mission",
+    "un field office",
+    "un field operation",
+    "un peacekeeping field",
+    "united nations peacekeeping"
+  ],
+  "un peacebuilding effort": [
+    "un peacebuilding effort",
+    "un peacebuilding effort",
+    "un peacekeeping",
+    "un peacekeeping mission",
+    "un peacekeeping operation"
+  ],
+  "un programme planning": [
+    "un programme planning",
+    "un programme policy",
+    "un programming proces",
+    "un peacekeepingoperation"
+  ],
+  "UN Security ": ["un security", "un security operation"],
+  "unodc project management": ["unodc project management", "unodc programme"],
+  "urban development": [
+    "urban development",
+    "urban planning",
+    "urban policy analysis",
+    "urbanization project"
+  ],
+  "victim support": ["victim support"],
+  "waste management": ["waste management"],
+  "water management": [
+    "water management",
+    "water resource management",
+    "water resource development",
+    "water footprint issue",
+    "integration water resources management"
+  ],
+  "website maintenance": [
+    "website maintenance",
+    "website management",
+    "website design",
+    "website content management",
+    "web maintenance"
+  ],
+  "wildlife law enforcement": [
+    "wildlife law enforcement",
+    "wildlife crime",
+    "unwater collaboration mechanism",
+    "water pollution",
+    "integration water resources"
+  ],
+  "witness support": [
+    "witness support",
+    "witness protection",
+    "witness protection policy",
+    "web design",
+    "web administration"
+  ],
+  "wto negotiation": ["wto negotiation", "wto agreements", "wto issue"]
+}

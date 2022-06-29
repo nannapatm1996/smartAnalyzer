@@ -1,0 +1,241 @@
+{
+  "aid administration": ["aid administration"],
+  "anticorruption legislation": ["anticorruption legislation"],
+  "appeal chamber": ["appeal chamber"],
+  "border management": ["border management", "border control"],
+  "business administration": ["business administration"],
+  "capacity building": ["capacity building"],
+  "case management": [
+    "case management",
+    "case analysis",
+    "case analysis software",
+    "case management software",
+    "case file",
+    "case management law",
+    "case work",
+    "casemanagement technology",
+    "case mapping"
+  ],
+  "claim administration": ["claim administration", "claim review"],
+  "commercial law": ["commercial law"],
+  "compensation administration": [
+    "compensation administration",
+    "compensation claims",
+    "competition authority"
+  ],
+  "computer application": ["computer application", "application development"],
+  "computer skill": ["computer skill", "computer literacy"],
+  "conference service": ["conference service", "conference document"],
+  "conflict setting": ["conflict setting", "postconflict country"],
+  "construction project": [
+    "construction project",
+    "construction project implementation"
+  ],
+  "contract negotiation": ["contract negotiation"],
+  "court administration": [
+    "court administration",
+    "witness support",
+    "court operation"
+  ],
+  "court room advocacy": [
+    "court room advocacy",
+    "advocacy skill",
+    "courtroom proceeding"
+  ],
+  "crime prevention": ["crime prevention"],
+  "customs legislation": ["customs legislation"],
+  "data management": [
+    "data management",
+    "datum analysis",
+    "datum collection tool",
+    "datum distribution"
+  ],
+  "database management": [
+    "database management",
+    "building database",
+    "database management software",
+    "database tool"
+  ],
+  "defense lawyer": ["defense lawyer"],
+  "desktop publishing": ["desktop publishing"],
+  "detention rules": ["detention rules"],
+  "development cooperation": ["development cooperation"],
+  "development finance": ["development finance"],
+  "development issue": ["development issue"],
+  "document management software": [
+    "document management software",
+    "document management system",
+    "document organizationalskill"
+  ],
+  "documentary evidence": ["documentary evidence"],
+  "donor relation": ["donor relation"],
+  "drafting skill": ["drafting skill"],
+  "drug control": ["drug control", "drug trafficking"],
+  "eccc law": ["eccc law", "eccc trial chamber"],
+  "employment dispute": ["employment dispute"],
+  "employment law": ["employment law", "employment law litigation"],
+  "financial information management": ["financial information management"],
+  "firearm trafficking": ["firearm trafficking"],
+  "gis programming": ["gis programming"],
+  "human resources": ["human resources", "human resources management"],
+  "human rights": ["human rights"],
+  "ictr caselaw": ["ictr caselaw"],
+  "information technology": ["information technology"],
+  "intellectual property": ["intellectual property"],
+  "interagency cooperation": ["interagency cooperation"],
+  "international criminal tribunal": ["international criminal tribunal"],
+  "international humanitarian law": ["international humanitarian law"],
+  "international law": ["international law"],
+  "international organization": ["international organization"],
+  "internetbased research methodology": ["internetbased research methodology"],
+  "interpreting report": ["interpreting report", "interpreting contract"],
+  "intranet service": ["intranet service"],
+  "investment agreement": ["investment agreement"],
+  "judicial institution": ["judicial institution"],
+  "justice framework": [
+    "justice framework",
+    "justice issue",
+    "justice level",
+    "justice official",
+    "justice programme",
+    "justice sector",
+    "justice system",
+    "justice reform",
+    "justice matter"
+  ],
+  "labour law": ["labour law"],
+  "law enforcement agency": ["law enforcement agency"],
+  "law firm": [
+    "law firm",
+    "law enforcement",
+    "law appeal",
+    "law clerk",
+    "law enforcement cooperation",
+    "law background paper",
+    "law office",
+    "law jurisdiction",
+    "right law",
+    "law reform",
+    "law initiative",
+    "law institution",
+    "law issue",
+    "law jurisdiction requirement",
+    "law litigation",
+    "law project",
+    "law system",
+    "law training course"
+  ],
+  "legal aid": [
+    "legal aid",
+    "legal aid program",
+    "legal drafting",
+    "legal services division"
+  ],
+  "library work": ["library work", "library source"],
+  "litigation strategy": ["litigation strategy", "litigation experience"],
+  "lotus notes": ["lotus notes"],
+  "management system": [
+    "management system",
+    "integrated management information",
+    "border management issue",
+    "management function",
+    "management level"
+  ],
+  "mapping tool": ["mapping tool"],
+  "maritime security": ["maritime security"],
+  "mass claim processing": ["mass claim processing"],
+  "money laundering": ["money laundering"],
+  "ms office": [
+    "ms office",
+    "microsoft excel",
+    "microsoft word",
+    "ms office package",
+    "power point"
+  ],
+  "negotiating process": ["negotiating process"],
+  "ocean affair": ["ocean affair", "ocean affair issue"],
+  "office administration": [
+    "office administration",
+    "office support",
+    "office task"
+  ],
+  "paralegal work": ["paralegal work"],
+  "party claim": ["party claim"],
+  "pension fund": ["pension fund"],
+  "pension matter": ["pension matter"],
+  "performance management": ["performance management"],
+  "petroleum contamination issue": ["petroleum contamination issue"],
+  "policy development": [
+    "policy development",
+    "policy advice",
+    "policy analysis"
+  ],
+  "post conflict environment": [
+    "post conflict environment",
+    "postconflict setting",
+    "postconflict situation",
+    "postconflict territory"
+  ],
+  "procedure law": ["procedure law"],
+  "programme management": [
+    "programme management",
+    "capacity development programme management",
+    "programme development",
+    "cooperation programme",
+    "development programme"
+  ],
+  "project management": [
+    "project management",
+    "project agreement",
+    "project context"
+  ],
+  "property law": ["property law"],
+  "property right": ["property right"],
+  "prosecution": ["prosecution", "violence prosecution", "prosecution brief"],
+  "protection programme": ["protection programme"],
+  "public international law": ["public international law"],
+  "publication skill": [
+    "publication skill",
+    "publishing article",
+    "publishing standard",
+    "publication record"
+  ],
+  "research skill": [
+    "research skill",
+    "research ability",
+    "research tool",
+    "research work"
+  ],
+  "resource management": ["resource management", "resource policy"],
+  "restitution procedure": ["restitution procedure"],
+  "right standard": ["right standard", "right body", "right juridical body"],
+  "running workshop": ["running workshop"],
+  "scale civillitigation": ["scale civillitigation"],
+  "sea project": ["sea project", "sea issue", "sea matter"],
+  "secretariat service": ["secretariat service"],
+  "software application": [
+    "software application",
+    "computer software application"
+  ],
+  "space law": ["space law"],
+  "style sheet": ["style sheet"],
+  "support service": ["support service", "support team", "support work"],
+  "system reform": ["system reform"],
+  "team goal": ["team goal"],
+  "terrorism prevention": ["terrorism prevention"],
+  "tort claim": ["tort claim"],
+  "trade law": ["trade law"],
+  "treaty": ["treaty", "treaty obligation", "treaty implementation review"],
+  "treaty law": ["treaty law"],
+  "website management": ["website management", "website maintenance"],
+  "witness protection": ["witness protection", "witness support"],
+  "word processing tool": [
+    "word processing tool",
+    "word processing application"
+  ],
+  "writing skill": ["writing skill", "quality writing", "report writing skill"],
+  "un policy": ["un policy", "united nations policy"],
+  "united nations principal": ["united nations principal"],
+  "un staff rule": ["un staff rule"],
+  "": ["office software"]
+}

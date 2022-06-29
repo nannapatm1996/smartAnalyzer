@@ -1,0 +1,3936 @@
+{
+  "Planning Skills": ["planned", "plan", "planning"],
+  "Maintenance Skills": ["maintained", "maintain", "maintenance"],
+  "Design Skills": ["design", "designing", "designed"],
+  "Implementation Skills": ["implementation", "implemented", "implement"],
+  "Management Skills": ["manage", "managing", "managed"],
+  "erp": ["enterprise resource planning", "erp"],
+  "enterprice resource planning": ["erp", "enterprice resource planning"],
+  "customer relationship management": [
+    "crm",
+    "customer relationship management"
+  ],
+  "Development Skills": ["development", "developed", "develop"],
+  "budget": [
+    "budget",
+    "budgetary",
+    "budgeting",
+    "planning",
+    "plan budget",
+    "monitor budget",
+    "report on the budget",
+    "review budget",
+    "assess budget",
+    "evaluate budget",
+    "analyse budgets",
+    "analyse time sheets",
+    "calculate financial needs"
+  ],
+  "finance": [
+    "finance",
+    "financial",
+    "monetary",
+    "analyse financial records",
+    "analyse financial accounts",
+    "monitor finance accounts",
+    "financial processes",
+    "government money",
+    "public taxations",
+    "government taxations"
+  ],
+  "business administration": [
+    "business administration",
+    "identified priorities",
+    "identify priorities",
+    "adjust priorities",
+    "adjusted priorities",
+    "foresee risk",
+    "contract management",
+    "business handling",
+    "business analysis",
+    "business process"
+  ],
+  "admininstration": [
+    "admininstration",
+    "administrating",
+    "organizing",
+    "administering",
+    "monitor",
+    "managing",
+    "monetary administration",
+    "monetary management",
+    "financial administration",
+    "operate a financial instrument",
+    "manage contract administration",
+    "control contract administration"
+  ],
+  "information and communications technology": [
+    "ict",
+    "software development",
+    "it solution",
+    "it solutions",
+    "it systems",
+    "system maintenance",
+    "information and communications technology"
+  ],
+  "24SevenOffice Project": [
+    "24sevenoffice project",
+    "24sevenoffice",
+    "24sevenoffice saas",
+    "24sevenoffice erp",
+    "24sevenoffice crm",
+    "24sevenoffice accounting",
+    "24sevenoffice invoicing",
+    "24sevenoffice  e-mail",
+    "24sevenoffice file",
+    "24sevenoffice document management",
+    "24sevenoffice  project management",
+    "24sevenoffice enterprise resource planning"
+  ],
+  "37Signals Basecamp": [
+    "37signals basecamp",
+    "37signals",
+    "37signals web-based project management",
+    "37signals project management",
+    "37signals basecamp 3",
+    "37signals campfire",
+    "campfire",
+    "37signals online chat",
+    "37signals realtime chat"
+  ],
+  "A programming language APL": [
+    "a programming language apl",
+    "apl2",
+    "apl\\360",
+    "apl\\1130",
+    "apl*plus and sharp apl",
+    "dyalog apl",
+    "nars2000",
+    "aplx",
+    "gnu apl",
+    "interpretation and compilation of apl"
+  ],
+  "Ab Initio": [
+    "ab initio",
+    "ibm ab initio",
+    "ibm ab initio etl",
+    "ab initio etl"
+  ],
+  "ABC Compiler": ["abc compiler"],
+  "ABC: the AspectBench Compiler for AspectJ": [
+    "abc: the aspectbench compiler for aspectj",
+    "aspectj",
+    "aspectbench compiler",
+    "aspectbench workbench",
+    "aspect-oriented programming"
+  ],
+  "Access management software": [
+    "access management software",
+    "access management software security",
+    "access management software it store",
+    "access management software application",
+    "access management software cloud",
+    "access management software services",
+    "access management software open source"
+  ],
+  "AccessData FTK": [
+    "accessdata ftk",
+    "forensic toolkit",
+    "forensic toolkit digital investigations",
+    "ftk digital investigations"
+  ],
+  "AcmeStudio": ["acmestudio", "acmesoftware", "acmearchitecture"],
+  "Acresso InstallAnywhere": [
+    "acresso installanywhere",
+    "installanywhere",
+    "flexera software llc"
+  ],
+  "Acronis Recovery Expert": [
+    "acronis recovery expert",
+    "acronisdisk director",
+    "acronis recovery"
+  ],
+  "Actano Rplan": [
+    "actano rplan",
+    "actano",
+    "rplan",
+    "rplan connect",
+    "rplan connect project management",
+    "rplan workstreams",
+    "rplan enterprise",
+    "rplan resources"
+  ],
+  "Active directory software": [
+    "active directory software",
+    "active directory",
+    "ad software"
+  ],
+  "Ada": ["ada", "ada (programming language)"],
+  "Adeptia ETL Suite": [
+    "adeptia etl suite",
+    "adeptia extract, transform & load (etl) suite",
+    "adeptia etl"
+  ],
+  "Adexa eGPS Suite": [
+    "adexa egps suite",
+    "adexa egps",
+    "adexa introduces enterprise global planning system(egps)",
+    "enterprise global planning system (egps)"
+  ],
+  "ADO.NET": [
+    "ado.net",
+    "ms ado.net",
+    "microsoft ado.net",
+    ".net framework data providers"
+  ],
+  "Adobe ColdFusion": [
+    "adobe coldfusion",
+    "adobe coldfusion enterprise",
+    "adobe coldfusion standard",
+    "adobe coldfusion builder"
+  ],
+  "Adobe Systems Adobe Acrobat": [
+    "adobe systems adobe acrobat",
+    "adobe acrobat",
+    "acrobat"
+  ],
+  "Adobe Systems Adobe ActionScript": [
+    "adobe systems adobe actionscript",
+    "adobe actionscript"
+  ],
+  "Adobe Systems Adobe After Effects": [
+    "adobe systems adobe after effects",
+    "adobe after effects"
+  ],
+  "Adobe Systems Adobe AIR": ["adobe systems adobe air", "adobe air"],
+  "Adobe Systems Adobe Creative Cloud": [
+    "adobe systems adobe creative cloud",
+    "adobe creative cloud"
+  ],
+  "Adobe Systems Adobe Dreamweaver": [
+    "adobe systems adobe dreamweaver",
+    "adobe dreamweaver"
+  ],
+  "Adobe Systems Adobe Fireworks": [
+    "adobe systems adobe fireworks",
+    "adobe fireworks"
+  ],
+  "Adobe Systems Adobe Flash": ["adobe systems adobe flash", "adobe flash"],
+  "Adobe Systems Adobe Flex": ["adobe systems adobe flex", "adobe flex"],
+  "Adobe Systems Adobe FrameMaker": [
+    "adobe systems adobe framemaker",
+    "adobe framemaker"
+  ],
+  "Adobe Systems Adobe Illustrator": [
+    "adobe systems adobe illustrator",
+    "adobe illustrator"
+  ],
+  "Adobe Systems Adobe InDesign": [
+    "adobe systems adobe indesign",
+    "adobe indesign"
+  ],
+  "Adobe Systems Adobe Photoshop": [
+    "adobe systems adobe photoshop",
+    "adobe photoshop"
+  ],
+  "Adobe Systems Adobe PostScript": [
+    "adobe systems adobe postscript",
+    "adobe postscript"
+  ],
+  "ADP Workforce Now": [
+    "adp workforce now",
+    "adp workforce",
+    "adp workforce now hr"
+  ],
+  "Advanced business application programming ABAP": [
+    "advanced business application programming abap",
+    "sap abap",
+    "abap",
+    "sap advanced business application programming"
+  ],
+  "AEC Software FastTrack Schedule for Windows": [
+    "aec software fasttrack schedule for windows",
+    "aec software fasttrack schedule"
+  ],
+  "AirMagnet Enterprise": [
+    "airmagnet enterprise",
+    "airmagnet",
+    "airmagnet enterprise console"
+  ],
+  "AJAX": ["ajax", "ajax jquery", "ajax javascript"],
+  "Algorithmic language ALGOL": [
+    "algorithmic language algol",
+    "algorithmic language",
+    "algol",
+    "international algebraic language (ial)"
+  ],
+  "Allaire ColdFusion": ["allaire coldfusion", "coldfusion allaire"],
+  "Altia Design": [
+    "altia design",
+    "altia design gui",
+    "altia design gui editor",
+    "altia ux design",
+    "altia user interface design tool",
+    "altia gui"
+  ],
+  "Altova MapForce": [
+    "altova mapforce",
+    "data mapping tools -mapforce",
+    "altova mapforce  data mapping tools"
+  ],
+  "Amazon Data Pipeline": [
+    "amazon data pipeline",
+    "amazon data pipeline - data workflow orchestration service",
+    "aws data pipeline"
+  ],
+  "Amazon DynamoDB": ["amazon dynamodb", "aws dynamodb", "dynamodb"],
+  "Amazon Kinesis": [
+    "amazon kinesis",
+    "amazon kinesis data streams",
+    "aws kinesis",
+    "aws kinesis data streams",
+    "amazon kinesis video streams",
+    "aws kinesis video streams",
+    "amazon kinesis data firehouse",
+    "amazon kinesis data analytics",
+    "aws kinesis data firehouse",
+    "aws kinesis data analytics",
+    "kinesis video streams",
+    "kinesis data streams",
+    "kinesis data firehose",
+    "kinesis data analytics"
+  ],
+  "American National Standards Institute ANSI C": [
+    "american national standards institute ansi c",
+    "ansi c",
+    "c programming"
+  ],
+  "AMS REALTIME Projects": [
+    "ams realtime projects",
+    "ams realtime project management software",
+    "ams realtime enterprise",
+    "advanced management solutions realtime projects"
+  ],
+  "Android": [
+    "android",
+    "android for developers",
+    "android for enterprise",
+    "android studio and sdk",
+    "android open source project"
+  ],
+  "Ansible software": [
+    "ansible software",
+    "ansible it automation",
+    "ansible automation",
+    "ansible"
+  ],
+  "AnthillPro": [
+    "anthillpro",
+    "anthillpro integration servers",
+    "anthillpro enterprise integration",
+    "anthillpro enterprise"
+  ],
+  "Anti-phishing software": [
+    "anti-phishing software",
+    "anti-phishing",
+    "service-based anti-phishing"
+  ],
+  "Anti-spyware software": [
+    "anti-spyware software",
+    "anti-spyware",
+    "spyware programs",
+    "antivirus software",
+    "anti-spyware",
+    "anti-malware software"
+  ],
+  "Anti-Trojan software": [
+    "anti-trojan software",
+    "anti-trojan",
+    "anti-malware",
+    "anti-trojan program",
+    "trojan remover",
+    "trojan horse scanning",
+    "trojan removal tools",
+    "anti trojan elite"
+  ],
+  "Antivirus software": ["antivirus software", "antivirus"],
+  "Aonix Software Through Pictures": [
+    "aonix software through pictures",
+    "aonix software",
+    "aonix stp software through pictures (stp)aonix stp",
+    "aonix stp software"
+  ],
+  "Apache Ant": [
+    "apache ant",
+    "apache ant automating software",
+    "apache ant software"
+  ],
+  "Apache Avro": ["apache avro", "apache avro data serialization system"],
+  "Apache Cassandra": [
+    "apache cassandra",
+    "cassandra",
+    "cassandra nosql",
+    "cassandra nosql db",
+    "cassandra column store db",
+    "apache cassandra database"
+  ],
+  "Apache Continuum": [
+    "apache continuum",
+    "apache continuum integration server"
+  ],
+  "Apache Flume": [
+    "apache flume",
+    "apache flume software",
+    "apache flume developer"
+  ],
+  "Apache Gump": [
+    "apache gump",
+    "apache gump integration tool",
+    "apache gump integration"
+  ],
+  "Apache Hadoop": [
+    "apache hadoop",
+    "apache hadoop software",
+    "apache hadoop software library",
+    "hadoop common",
+    "hadoop distributed file system (hdfs)",
+    "hadoop yarn",
+    "hadoop mapreduce"
+  ],
+  "Apache Hbase": [
+    "apache hbase",
+    "apache hbase non-relational database",
+    "hbase non-relational database",
+    "hbase db",
+    "hbase database"
+  ],
+  "Apache Hive": [
+    "apache hive",
+    "apache hive data warehouse system",
+    "hive data warehouse system",
+    "hive dw system",
+    "apache hive tm"
+  ],
+  "Apache HTTP Server": [
+    "apache http server",
+    "apache http server software",
+    "apache web server"
+  ],
+  "Apache Mahout": ["apache mahout", "apache mahout project", "mahout"],
+  "Apache Maven": [
+    "apache maven",
+    "maven",
+    "apache maven software",
+    "maven software",
+    "apache maven project management",
+    "maven build automation tool"
+  ],
+  "Apache Oozie": [
+    "apache oozie",
+    "apache oozie computer application",
+    "apache oozie  workflow  scheduling",
+    "oozie  workflow  scheduling"
+  ],
+  "Apache Pig": ["apache pig", "pig latin", "apache pig latin"],
+  "Apache Solr": [
+    "apache solr",
+    "apache solr enterpise search",
+    "solr enterpise search",
+    "apache lucene",
+    "apache lucene project"
+  ],
+  "Apache Spark": [
+    "apache spark",
+    "apache spark computer program",
+    "apache spark framework",
+    "spark core",
+    "spark sql",
+    "spark streaming",
+    "spark mllib"
+  ],
+  "Apache Sqoop": ["apache sqoop", "sqoop"],
+  "Apache Struts": [
+    "apache struts",
+    "apache struts web application framework",
+    "struts web application framework"
+  ],
+  "Apache Subversion SVN": [
+    "apache subversion svn",
+    "apache subversion",
+    "subversion svn",
+    "apache revision control",
+    "apache svn"
+  ],
+  "Apache Tomcat": [
+    "apache tomcat",
+    "apache tomcat web server",
+    "tomcat web server",
+    "tomcat",
+    "tomcat catalina",
+    "tomcat jasper",
+    "tomcat coyote",
+    "apache tomcat server"
+  ],
+  "Apache Webserver": ["apache webserver", "apache http server"],
+  "Apatar": [
+    "apatar",
+    "apatar etl",
+    "apatar data integration",
+    "apatar merge",
+    "apatar on-demand"
+  ],
+  "Apple Cocoa": [
+    "apple cocoa",
+    "cocoa (api)",
+    "cocoa application programming interface",
+    "cocoa application layer",
+    "cocoa (touch)",
+    "cocoa framework"
+  ],
+  "Apple Final Cut Pro": [
+    "apple final cut pro",
+    "final cut pro x - apple",
+    "apple final cut pro x",
+    "final cut pro",
+    "final cut pro software program"
+  ],
+  "Apple Macintosh OS": [
+    "apple macintosh os",
+    "macintosh os",
+    "macintosh operating systems",
+    "mac os",
+    "mac os x"
+  ],
+  "Apple Safari": [
+    "apple safari",
+    "apple safari browser",
+    "safari browser",
+    "safari web browser",
+    "apple web browser"
+  ],
+  "Application management software": [
+    "application management software",
+    "application software"
+  ],
+  "Application server software": [
+    "application server software",
+    "application server"
+  ],
+  "Architecture description language ADL": [
+    "architecture description language adl",
+    "architecture description language",
+    "adl"
+  ],
+  "ArcSight Enterprise Threat and Risk Management": [
+    "arcsight enterprise threat and risk management",
+    "arcsight enterprise security manager (esm)",
+    "arcsight enterprise threat",
+    "arcsight enterprise  risk management"
+  ],
+  "Aruba Networks AirWave": [
+    "aruba networks airwave",
+    "aruba airwave - aruba networks",
+    "aruba networks",
+    "aruba airwave",
+    "aruba airwave network management"
+  ],
+  "Ascensio Systems TeamLab": [
+    "ascensio systems teamlab",
+    "ascensio system sia (teamlab)",
+    "ascensio system sia",
+    "teamlab"
+  ],
+  "ASG Technologies ASG-Zeke": [
+    "asg technologies asg-zeke",
+    "asg-zeke agents",
+    "asg-zeke",
+    "ibm - asg-zeke"
+  ],
+  "Assembla": [
+    "assembla",
+    "assembla version control",
+    "assembla  web-based version control",
+    "assembla cloud-based version control"
+  ],
+  "Assembler": ["assembler", "assembly language", "asm"],
+  "Asset management administration software": [
+    "asset management administration software",
+    "asset management software",
+    "asset management administration"
+  ],
+  "Atlassian Confluence": [
+    "atlassian confluence",
+    "confluence (software)",
+    "confluence collaboration software program",
+    "confluence cloud"
+  ],
+  "Atlassian HipChat": ["atlassian hipchat", "hipchat software"],
+  "Atlassian JIRA": [
+    "atlassian jira",
+    "jira software",
+    "jira issue tracking software",
+    "jira bug tracking software",
+    "jira project tracking software"
+  ],
+  "AtTask": [
+    "attask",
+    "attask project management software",
+    "attask project management"
+  ],
+  "Autodesk AutoCAD": [
+    "autodesk autocad",
+    "autodesk autocad 2d",
+    "autodesk autocad 3d"
+  ],
+  "Autodesk AutoCAD Civil 3D": [
+    "autodesk autocad civil 3d",
+    "autocad civil 3d"
+  ],
+  "Autodesk Revit": ["autodesk revit", "revit modeling", "revit"],
+  "Automated audit trail analysis software": [
+    "automated audit trail analysis software",
+    "automated audit trail",
+    "automated audit trail analysis"
+  ],
+  "Automated installation software": [
+    "automated installation software",
+    "automated installation"
+  ],
+  "Automated media tracking software": [
+    "automated media tracking software",
+    "automated media tracking"
+  ],
+  "Automation Centre TrackerSuite.Net": [
+    "automation centre trackersuite.net",
+    "trackersuite.net",
+    "trackersuite.net project management software"
+  ],
+  "AWK": ["awk", "awk programming language"],
+  "Backbone.js": [
+    "backbone.js",
+    "backbone.js javascript library",
+    "backbone javascript library",
+    "backbone javascript"
+  ],
+  "Backup and archival software": [
+    "backup and archival software",
+    "backup software",
+    "archival software"
+  ],
+  "Bash": ["bash"],
+  "Basis BBx VisualPRO/5": [
+    "basis bbx visualpro/5",
+    "pro/5 family",
+    "bbx visualpro/5",
+    "visualpro/5",
+    "bbx en (visual) pro/5"
+  ],
+  "BEA Tuxedo": ["bea tuxedo", "bea tuxedo middleware"],
+  "Beginner's all-purpose symbolic instruction code BASIC": [
+    "beginner's all-purpose symbolic instruction code basic"
+  ],
+  "Bentley MicroStation": [
+    "bentley microstation",
+    "microstation",
+    "microstation software",
+    "microstation - 3d cad software"
+  ],
+  "Berkeley Internet Domain Name BIND": [
+    "berkeley internet domain name bind",
+    "domain name system (dns)",
+    "internet domain name bind"
+  ],
+  "Bigloo Scheme": [
+    "bigloo scheme",
+    "bigloo",
+    "bigloo programming language",
+    "bigloo-lib"
+  ],
+  "Blackbaud The Raiser's Edge": [
+    "blackbaud the raiser's edge",
+    "raiser's edge nxt - blackbaud",
+    "raiser's edge nxt",
+    "blackbaud raiser's edge"
+  ],
+  "Blackboard": [
+    "blackboard",
+    "blackboard learn",
+    "blackboard education software"
+  ],
+  "BMC Software Change Manager": [
+    "bmc software change manager",
+    "remedy change management - bmc software",
+    "bmc remedy change manager software",
+    "bmc change manager software",
+    "bmc change manager"
+  ],
+  "BMC Software Control-M": [
+    "bmc software control-m",
+    "control-m",
+    "bmc control-m workload change manager",
+    "bmc control-m",
+    "control-m workload change manager"
+  ],
+  "BMC Software Recovery Manager RMAN": [
+    "bmc software recovery manager rman",
+    "recovery  bmc software",
+    "bmc software recovery",
+    "bmc recovery manager"
+  ],
+  "B-Method": ["b-method", "event-b"],
+  "Bootstrap": [
+    "bootstrap",
+    "bootstrap front-end framework",
+    "bootstrap  css framework"
+  ],
+  "Border Gateway Protocol BGP": [
+    "border gateway protocol bgp",
+    "border gateway protocol",
+    "interior border gateway protocol",
+    "internal bgp",
+    "ibgp",
+    "exterior border gateway protocol",
+    "external bgp",
+    "ebgp"
+  ],
+  "Borland SilkTest": [
+    "borland silktest",
+    "silk test software",
+    "silk test enterprise software",
+    "borland silk test software",
+    "borland silk test regression and functional software",
+    "silk test - micro focus"
+  ],
+  "Borland VisiBroker": [
+    "borland visibroker",
+    "visibroker - micro focus",
+    "borland visibroker corba"
+  ],
+  "Bourne Shell": [
+    "bourne shell",
+    "bourne shell - sh",
+    "command-line interpreter",
+    "shell scripts",
+    "bourne shell script"
+  ],
+  "BrightWork pmPoint": [
+    "brightwork pmpoint",
+    "ibs international - brightwork - pmpoint",
+    "pmpoint - project management"
+  ],
+  "BroadSoft BroadWorks": [
+    "broadsoft broadworks",
+    "broadworks",
+    "broadworks platform"
+  ],
+  "BroadVision software": [
+    "broadvision software",
+    "broadvision - enterprise e-business solutions",
+    "broadvision"
+  ],
+  "Bugzilla": [
+    "bugzilla",
+    "bugzilla bugtracker",
+    "bugzilla testing",
+    "bugzilla wontfix"
+  ],
+  "Business intelligence system software": [
+    "business intelligence system software",
+    "business intelligence system",
+    "bi system software",
+    "business intelligence software"
+  ],
+  "C": [
+    "c",
+    "c programming",
+    "c coding",
+    "c programming language",
+    "computer programming language",
+    "ansi c",
+    "with c"
+  ],
+  "C shell": [
+    "c shell",
+    "c shell environment",
+    "c shell scripting",
+    "c shell (csh )",
+    "unix shell"
+  ],
+  "C#": [
+    "c#",
+    "c sharp (programming language)",
+    "c sharp",
+    "c sharp programming",
+    "c sharp language"
+  ],
+  "C++": [
+    "c++",
+    "c++ programming",
+    "c++ programming  language",
+    "c++ language"
+  ],
+  "CA Easytrieve Report Generator": [
+    "ca easytrieve report generator",
+    "ca easytrieve report",
+    "easytrieve report generator"
+  ],
+  "CA Erwin Data Modeler": [
+    "ca erwin data modeler",
+    "erwin data modeler",
+    "ca erwin data",
+    "ca erwin data modeling",
+    "ca technologies erwin data modeler"
+  ],
+  "CA eTrust": [
+    "ca etrust",
+    "etrust third party software",
+    "ca etrust admin",
+    "ca etrust antivirus",
+    "ca etrust admin identity management solution"
+  ],
+  "CA IDMS": [
+    "ca idms",
+    "ca idms (integrated database management system)",
+    "ca integrated database management system"
+  ],
+  "CA Technologies CA Clarity PPM for IT Governance": [
+    "ca technologies ca clarity ppm for it governance",
+    "clarity ppm - ca",
+    "ca technologies ca clarity ppm",
+    "ca clarity ppm",
+    "ca ppm"
+  ],
+  "Call-processing language CPL": [
+    "call-processing language cpl",
+    "call-processing language",
+    "cpl"
+  ],
+  "Canonical Launchpad": ["canonical launchpad", "launchpad"],
+  "Capacity planning software": [
+    "capacity planning software",
+    "capacity planning",
+    "it capacity planning",
+    "capacity management"
+  ],
+  "Cascading Style Sheets CSS": [
+    "cascading style sheets css",
+    "cascading style sheets",
+    "css",
+    "cascading style sheets programming language",
+    "css language",
+    "css programming language"
+  ],
+  "CAST SQL Builder": ["cast sql builder", "cast sql builder for sql server"],
+  "Catalog navigation software": [
+    "catalog navigation software",
+    "catalog navigation"
+  ],
+  "Central Desktop": [
+    "central desktop",
+    "imeet central",
+    "central desktop software"
+  ],
+  "Check Point Next Generation Secure Web Gateway": [
+    "check point next generation secure web gateway",
+    "next generation secure web gateway",
+    "web 2.0"
+  ],
+  "Chef": ["chef"],
+  "Cisco IOS": [
+    "cisco ios",
+    "cisco ios operating system",
+    "cisco ios network operating systems",
+    "internetwork operating system",
+    "cisco ios technologies",
+    "networking software (ios and nx-os)   cisco",
+    "cisco systems ios"
+  ],
+  "Cisco Systems Cisco Web Cache Communication Protocol WCCP": [
+    "cisco systems cisco web cache communication protocol wccp",
+    "web cache communications protocol (wccp)  cisco",
+    "cisco web cache communication protocol wccp",
+    "wccp configuration",
+    "web cache communication protocol"
+  ],
+  "Cisco Systems CiscoWorks": [
+    "cisco systems ciscoworks",
+    "ciscoworks",
+    "ciscoworks ciscoview  - cisco"
+  ],
+  "Cisco Systems CiscoWorks LAN Management Solution": [
+    "cisco systems ciscoworks lan management solution",
+    "ciscoworks lan management solution",
+    "cisco prime lan management solution - cisco",
+    "ciscoworks lan management solution"
+  ],
+  "Cisco Systems Gateway Load Balancing Protocol GLBP": [
+    "cisco systems gateway load balancing protocol glbp",
+    "gateway load balancing protocol (glbp)",
+    "cisco glbp",
+    "glbp - gateway load balancing protocol - cisco systems",
+    "cisco glbp load balancing options - cisco",
+    "gateway load balancing protocol"
+  ],
+  "Cisco Systems Hot Standby Router Protocol HSRP": [
+    "cisco systems hot standby router protocol hsrp",
+    "cisco hot standby router protocol (hsrp)",
+    "hot standby router protocol features and functionality - cisco",
+    "hot standby router protocol (hsrp)",
+    "hsrp, hot standby router protocol - network sorcery",
+    "hsrp, hot standby router protocol"
+  ],
+  "Cisco Systems Wireless Control System WCS": [
+    "cisco systems wireless control system wcs",
+    "cisco wireless control system - cisco",
+    "cisco wireless control system configuration",
+    "cisco systems wireless control system",
+    "cisco systems wcs",
+    "cisco wireless control system (wcs)"
+  ],
+  "Citrix": ["citrix", "citrix system"],
+  "Citrix XenApp": [
+    "citrix xenapp",
+    "citrix virtual apps and desktops",
+    "xenapp - citrix"
+  ],
+  "Clarity Systems IBM Clarity": [
+    "clarity systems ibm clarity",
+    "ibm acquires clarity systems",
+    "clarity systems - ibm"
+  ],
+  "Clarizen": [
+    "clarizen",
+    "clarizen project management tool",
+    "clarizen project management software",
+    "clarizen - project management software"
+  ],
+  "Clipper": ["clipper"],
+  "Cloudera Impala": [
+    "cloudera impala",
+    "apache impala",
+    "apache cloudera impala",
+    "cloudera impala  interactive sql queries",
+    "cloudera impala query ui"
+  ],
+  "CloverETL": [
+    "cloveretl",
+    "cloverdx data integration",
+    "cloverdx",
+    "cloveretl/cloveretl-engine",
+    "cloveretl data integration"
+  ],
+  "Cluster server software": ["cluster server software", "cluster server"],
+  "Code generator software": ["code generator software", "code generator"],
+  "Code hosting software": ["code hosting software", "code hosting"],
+  "Code munger software": ["code munger software", "code munger"],
+  "CoffeeCup The HTML Editor": [
+    "coffeecup the html editor",
+    "html editor",
+    "coffeecup html"
+  ],
+  "Coglin Mill RODIN": [
+    "coglin mill rodin",
+    "coglin mill rodin 7",
+    "coglin mill rodin data warehouse",
+    "coglin mill rodin data mart",
+    "sequel data warehouse"
+  ],
+  "Collaborative application lifecycle management ALM software": [
+    "collaborative application lifecycle management alm software",
+    "application lifecycle management alm software",
+    "application lifecycle management alm",
+    "alm software",
+    "collaborative application lifecycle management software"
+  ],
+  "Collaborative Application Markup Language CAML": [
+    "collaborative application markup language caml",
+    "collaborative application markup language",
+    "caml",
+    "caml - collaborative application markup language",
+    "u2u caml query builder",
+    "caml query builder"
+  ],
+  "Command interpreters": [
+    "command interpreters",
+    "shell",
+    "command interpreters - dos"
+  ],
+  "Common business oriented language COBOL": [
+    "common business oriented language cobol",
+    "common business oriented language",
+    "cobol computer programming language",
+    "cobol",
+    "cobol programming language"
+  ],
+  "Common gateway interface CGI": [
+    "common gateway interface cgi",
+    "common gateway interface",
+    "cgi"
+  ],
+  "Common Lisp Object System CLOS": [
+    "common lisp object system clos",
+    "common lisp object system",
+    "clos"
+  ],
+  "Compaq Insight Manager": [
+    "compaq insight manager",
+    "hpe systems insight manager",
+    "compaq sim",
+    "compaq insight manager agents",
+    "cim",
+    "hpsim",
+    "insight manager"
+  ],
+  "Compatibility testing software": [
+    "compatibility testing software",
+    "compatibility testing",
+    "non-functional testing"
+  ],
+  "Compilers": ["compilers", "compiler"],
+  "Component object model COM software": [
+    "component object model com software",
+    "component object model",
+    "com software",
+    "com",
+    "com+",
+    "dcom",
+    ".net"
+  ],
+  "Component-based Scalable Logical Architecture CSLA": [
+    "component-based scalable logical architecture csla",
+    "component-based scalable logical architecture",
+    "csla",
+    "csla .net"
+  ],
+  "Computer aided design and drafting CADD software": [
+    "computer aided design and drafting cadd software",
+    "computer aided design and drafting sofware",
+    "cadd software",
+    "cad drafting software",
+    "cad software",
+    "computer aided design and drafting software cadd"
+  ],
+  "Computer assisted software engineering CASE software": [
+    "computer assisted software engineering case software",
+    "computer assisted software engineering software",
+    "case software",
+    "case tools",
+    "computer-aided software engineering (case) technologies"
+  ],
+  "Computer Associates ArcServ Backup": [
+    "computer associates arcserv backup",
+    "arcserve",
+    "arcserve enterprise backup solutions",
+    "ca arcserve backup",
+    "arcserv backup",
+    "computer associates arcserv",
+    "ca arcserv"
+  ],
+  "Computer Associates integrated data management system CA-IDMS": [
+    "computer associates integrated data management system ca-idms",
+    "computer associates integrated data management system",
+    "ca-idms",
+    "ca integrated data management system",
+    "codasyl",
+    "ca idms database management system",
+    "ca idms"
+  ],
+  "Computer Associates Log Analyzer": [
+    "computer associates log analyzer",
+    "ca log analyzer",
+    "log monitoring & log analysis - ca",
+    "log analyzer"
+  ],
+  "Computer based training software": [
+    "computer based training software",
+    "cbt software",
+    "computer based training software (cbt)"
+  ],
+  "Computer forensic software": [
+    "computer forensic software",
+    "computer forensics",
+    "digital forensics tools",
+    "computer forensics tools",
+    "forensic investigation tools"
+  ],
+  "Computer intrusion detection systems": [
+    "computer intrusion detection systems",
+    "intrusion detection system",
+    "ids",
+    "computer ids",
+    "intrusion detection systems and prevention systems"
+  ],
+  "Computer On-line Real-time Applications Language CORAL 66": [
+    "computer on-line real-time applications language coral 66",
+    "computer on-line real-time applications language",
+    "coral 66",
+    "coral 66 - realtime english military language"
+  ],
+  "Computer system diagnostics software": [
+    "computer system diagnostics software",
+    "computer system diagnostics tool",
+    "diagnostic tools",
+    "computer diagnostic tools",
+    "pc-check diagnostic software",
+    "pc diagnostic software",
+    "pc diagnostic"
+  ],
+  "Compuware dynaTrace": [
+    "compuware dynatrace",
+    "dynatrace",
+    "dynatrace  software intelligence for the enterprise cloud"
+  ],
+  "Concurrency control software": [
+    "concurrency control software",
+    "concurrency control"
+  ],
+  "Configuration management software": [
+    "configuration management software",
+    "configuration management software",
+    "cms tool",
+    "configuration management tool"
+  ],
+  "Conformance and validation testing software": [
+    "conformance and validation testing software",
+    "conformance testing software",
+    "conformance testing (compliance testing)",
+    "validation testing"
+  ],
+  "Content filter software": [
+    "content filter software",
+    "content-control software",
+    "web content filtering software",
+    "content filtering and blocking software"
+  ],
+  "Continuous integration software": [
+    "continuous integration software",
+    "continuous integration tools",
+    "continuous integration",
+    "continuous integration (ci)"
+  ],
+  "Corel CorelDraw Graphics Suite": [
+    "corel coreldraw graphics suite",
+    "coreldraw graphics suite",
+    "coreldraw graphics",
+    "coreldraw"
+  ],
+  "Cost estimation software": [
+    "cost estimation software",
+    "cost estimation tools",
+    "software cost estimation"
+  ],
+  "Couchbase Server": [
+    "couchbase server",
+    "couchbase db server",
+    "couchbase nosql database"
+  ],
+  "Countersoft Gemini": ["countersoft gemini", "countersoft  gemini tracker"],
+  "CrossTec NetOp Remote Control": [
+    "crosstec netop remote control",
+    "crosstec remote control",
+    "crosstec netop remot",
+    "netop remote control"
+  ],
+  "CruiseControl": ["cruisecontrol", "cruise control"],
+  "Cryptographic key management software": [
+    "cryptographic key management software",
+    "cryptographic key management tool",
+    "ckm sofware",
+    "ckm tools",
+    "cryptographic key management (ckm) software",
+    "key management  software",
+    "key management  tool",
+    "key management solutions",
+    "encryption key management software",
+    "encryption key management system",
+    "crypto management solutions"
+  ],
+  "CS Odessa ConceptDraw Project": [
+    "cs odessa conceptdraw project",
+    "conceptdraw project",
+    "conceptdraw project software",
+    "project management software - conceptdraw",
+    "cs odessa project"
+  ],
+  "Customer information control system CICS": [
+    "customer information control system cics",
+    "customer information control system",
+    "cics",
+    "cics programming language",
+    "customer information control system/virtual machine (cics/vm)"
+  ],
+  "Daptiv PPM": [
+    "daptiv ppm",
+    "daptiv ppm",
+    "daptiv ppm project management",
+    "daptiv ppm software"
+  ],
+  "Dartware InterMapper": [
+    "dartware intermapper",
+    "intermapper",
+    "dartware intermapper",
+    "network management software",
+    "dartware software"
+  ],
+  "Dassault Systemes CATIA": [
+    "dassault systemes catia",
+    "dassault systemes catia software",
+    "catia software",
+    "3d design & engineering software",
+    "catia products - dassault syst\u00e8mes"
+  ],
+  "Data analysis software": ["data analysis software", "data analysis tool"],
+  "Data conversion software": [
+    "data conversion software",
+    "data conversion  tool",
+    "data converter",
+    "datafileconverter"
+  ],
+  "Data definition language DDL": [
+    "data definition language ddl",
+    "data definition language",
+    "ddl"
+  ],
+  "Data dictionary software": [
+    "data dictionary software",
+    "data dictionary",
+    "data dictionary tool"
+  ],
+  "Data entry software": ["data entry software", "data entry tool"],
+  "Data manipulation language DML": [
+    "data manipulation language dml",
+    "data manipulation language",
+    "dml"
+  ],
+  "Data mapping software": [
+    "data mapping software",
+    "data mapping tool",
+    "data mapping"
+  ],
+  "Data modeling software": [
+    "data modeling software",
+    "data modeling tool",
+    "data modeling",
+    "database modeling tools",
+    "database design software"
+  ],
+  "Data Recovery Software SQL Server Data Recovery": [
+    "data recovery software sql server data recovery",
+    "data recovery software",
+    "sql server data recovery",
+    "data recovery tool",
+    "sql server recovery tool"
+  ],
+  "Data transformation services DTS software": [
+    "data transformation services dts software",
+    "data transformation services tool",
+    "dts software",
+    "sql server data transformation services"
+  ],
+  "Data validation software": [
+    "data validation software",
+    "data validation tools"
+  ],
+  "Database capacity planning software": [
+    "database capacity planning software",
+    "database capacity planning tools",
+    "database monitoring software",
+    "db capacity planning software",
+    "db capacity planning tools",
+    "db capacity planning & capacity management"
+  ],
+  "Database cloning software": [
+    "database cloning software",
+    "database cloning tools",
+    "db cloning software",
+    "database virtualization (cloning)"
+  ],
+  "Database design software": [
+    "database design software",
+    "database design tools",
+    "db design software",
+    "db designer",
+    "database modeler",
+    "db schema design tool"
+  ],
+  "Database security software": [
+    "database security software",
+    "database security tools",
+    "db security tools",
+    "database security solutions",
+    "database security - data protection and encryption",
+    "db security solution"
+  ],
+  "Database testing software": [
+    "database testing software",
+    "database testing tool",
+    "database testing",
+    "db testing software",
+    "database testing automation tool"
+  ],
+  "DataVision": ["datavision", "data vision"],
+  "dBASE Plus": ["dbase plus"],
+  "DBTools Software DBManager Professional": [
+    "dbtools software dbmanager professional",
+    "dbtools software",
+    "dbmanager professional",
+    "dbtools manager"
+  ],
+  "Debugging software": [
+    "debugging software",
+    "software debugging",
+    "debugging tools & software",
+    "debugging tools"
+  ],
+  "Debugview": ["debugview", "debug view"],
+  "Decompilers": ["decompilers"],
+  "Defect tracking software": [
+    "defect tracking software",
+    "defect tracking tools",
+    "bug & issue tracking tool",
+    "bug tracking system",
+    "bug tracking software solutions",
+    "issue tracking software",
+    "issue, defect and bug tracker"
+  ],
+  "Delphi Technology": ["delphi technology"],
+  "Deployment software": [
+    "deployment software",
+    "software deployment  tools",
+    "software deployment",
+    "deployment tools",
+    "migration tool"
+  ],
+  "Diagramming software": ["diagramming software", "diagramming tools"],
+  "Diameter": ["diameter"],
+  "Digital Crew Teamwork Project Manager": [
+    "digital crew teamwork project manager",
+    "teamwork project manager",
+    "digital crew teamwork",
+    "crew teamwork project manager"
+  ],
+  "Disarea 5pm": [
+    "disarea 5pm",
+    "5pm - project management software",
+    "disarea 5pm software"
+  ],
+  "Discrete event simulation software": [
+    "discrete event simulation software",
+    "simulation software",
+    "discrete event simulation tools"
+  ],
+  "Disk operating system DOS": [
+    "disk operating system dos",
+    "disk operating system",
+    "dos"
+  ],
+  "Distributed component object model DCOM software": [
+    "distributed component object model dcom software",
+    "distributed component object model software",
+    "dcom software",
+    "dcom - the distributed component object model"
+  ],
+  "Distributed database management software": [
+    "distributed database management software",
+    "distributed database management tools",
+    "distributed dbms distributed databases",
+    "distributed database management system",
+    "distributed database",
+    "distributed database system"
+  ],
+  "Django": [
+    "django",
+    "django software",
+    "django python web framework",
+    "django framework"
+  ],
+  "Document management system software": [
+    "document management system software",
+    "document management system tools",
+    "document management tools",
+    "document management system",
+    "document management (dms) software"
+  ],
+  "Document Object Model DOM Scripting": [
+    "document object model dom scripting",
+    "document object model scripting",
+    "dom scripting",
+    "dom (document object model)"
+  ],
+  "Domain name system DNS": [
+    "domain name system dns",
+    "domain name system",
+    "dns"
+  ],
+  "DOS shell script": [
+    "dos shell script",
+    "dos script",
+    "dos batch file scripting",
+    "dos batch",
+    "batch script",
+    "shell script"
+  ],
+  "dotProject": [
+    "dotproject",
+    "dotproject software",
+    "dotproject tools",
+    "dotproject - open source project management",
+    "dotproject project management"
+  ],
+  "Drupal": [
+    "drupal",
+    "drupal operating system",
+    "drupal content management framework",
+    "drupal content management tools",
+    "drupal content management software",
+    "drupal - open source cms",
+    "drupal cms platform"
+  ],
+  "Dynamic analysis software": [
+    "dynamic analysis software",
+    "dynamic analysis tools",
+    "dynamic program analysis",
+    "dynamic analysis"
+  ],
+  "Dynamic host configuration protocol DHCP": [
+    "dynamic host configuration protocol dhcp",
+    "dynamic host configuration protocol",
+    "dhcp"
+  ],
+  "Dynamic hypertext markup language DHTML": [
+    "dynamic hypertext markup language dhtml",
+    "dynamic hypertext markup language",
+    "dhtml"
+  ],
+  "Dynamic modeling software": [
+    "dynamic modeling software",
+    "dynamic modeling tools",
+    "dynamic modeling",
+    "dynamic simulation",
+    "dynamic simulation software"
+  ],
+  "E++ pattern language": ["e++ pattern language"],
+  "easyCIS": ["easycis"],
+  "Eclipse IDE": [
+    "eclipse ide",
+    "eclipse desktop & web ides",
+    "eclipse packages",
+    "eclipse (software)"
+  ],
+  "Edgewell Trac": [
+    "edgewell trac",
+    "the trac project - edgewall software",
+    "edgewall software",
+    "edgewall/trac"
+  ],
+  "Eiffel": ["eiffel"],
+  "ej-technologies JProfiler": [
+    "ej-technologies jprofiler",
+    "jprofiler - ej-technologies",
+    "java profiler - jprofiler - ej-technologies",
+    "ej-technologies"
+  ],
+  "Elasticsearch": [
+    "elasticsearch",
+    "elasticsearch software",
+    "open source search & analytics - elasticsearch",
+    "elasticsearch"
+  ],
+  "ElectricCloud ElectricCommander": [
+    "electriccloud electriccommander",
+    "electric-cloud/electriccommander - electriccommander",
+    "electric cloud",
+    "electriccommander - electric cloud"
+  ],
+  "Electronic design automation EDA software": [
+    "electronic design automation eda software",
+    "electronic design automatio tool",
+    "electronic design automatio",
+    "eda software",
+    "electronic design automatio software"
+  ],
+  "Element management software": [
+    "element management software",
+    "element management tools",
+    "element management systems (emss)"
+  ],
+  "Element Software Copper": [
+    "element software copper",
+    "copper project management software",
+    "copper project software"
+  ],
+  "Ellucian Banner ERP": [
+    "ellucian banner erp",
+    "ellucian banner enterprise resource planning",
+    "ellucian enterprise resource planning (erp) systems"
+  ],
+  "Email management software": [
+    "email management software",
+    "email management tools"
+  ],
+  "Embarcadero Delphi": [
+    "embarcadero delphi",
+    "delphi  software - embarcadero",
+    "delphi xe8",
+    "embarcadero delphi xe4"
+  ],
+  "Embarcadero JBuilder": [
+    "embarcadero jbuilder",
+    "jbuilder - embarcadero",
+    "jbuilder",
+    "embarcadero jbuilder - edm2"
+  ],
+  "Embarcadero Technologies DBArtisan": [
+    "embarcadero technologies dbartisan",
+    "embarcadero  dbartisan",
+    "embarcadero multi-platform dbartisan xe"
+  ],
+  "Embedded systems development software": [
+    "embedded systems development software",
+    "embedded systems development tools",
+    "embedded software",
+    "software development tools for embedded systems",
+    "embedded system development and design - embedded software"
+  ],
+  "EMC NetWorker": ["emc networker", "networker software storage - emc"],
+  "EMC Smarts Network Protocol Manager": [
+    "emc smarts network protocol manager",
+    "emc smarts network protocol"
+  ],
+  "Emerald Software Group Emerald Green Office": [
+    "emerald software group emerald green office",
+    "emerald software group"
+  ],
+  "Encryption software": ["encryption software", "encryption tools"],
+  "Endeavour Agile ALM": [
+    "endeavour agile alm",
+    "endeavour agile alm   agile software development & application",
+    "endeavour agile alm software",
+    "endeavour agile alm tools"
+  ],
+  "End-to-end encryption software": [
+    "end-to-end encryption software",
+    "end-to-end encryption (e2ee)",
+    "end-to-end encryption tools"
+  ],
+  "Enhanced Interior Gateway Routing Protocol EIGRP": [
+    "enhanced interior gateway routing protocol eigrp",
+    "enhanced interior gateway routing protocol",
+    "eigrp",
+    "enhanced interior gateway routing protocol - cisco",
+    "enhanced interior gateway routing protocol (eigrp)"
+  ],
+  "Enterprise application integration EAI software": [
+    "enterprise application integration eai software",
+    "enterprise application integration software",
+    "eai software",
+    "enterprise data integration software",
+    "enterprise application integration tool",
+    "eai tools",
+    "enterprise application integration"
+  ],
+  "Enterprise JavaBeans": [
+    "enterprise javabeans",
+    "enterprise java beans (ejb)",
+    "java ejb",
+    "ejb - javatpoint"
+  ],
+  "Enterprise resource planning ERP software": [
+    "enterprise resource planning erp software",
+    "enterprise resource planning software",
+    "erp software",
+    "erp tools",
+    "enterprise resource planning tools",
+    "enterprise resource planning",
+    "erp"
+  ],
+  "Epic Systems": [
+    "epic systems",
+    "epic systems software",
+    "epic emr",
+    "epic electronic medical record software application"
+  ],
+  "ESRI ArcGIS software": [
+    "esri arcgis software",
+    "arcgis software",
+    "esri arcgis tools",
+    "arcgis system software",
+    "arcgis desktop",
+    "arcmap"
+  ],
+  "Ethereal": ["ethereal"],
+  "Event-driven State-machines Programming": [
+    "event-driven state-machines programming",
+    "event-driven finite-state machine",
+    "event driven programming and state machines programming",
+    "state machine (event driven) architecture",
+    "state machines for event-driven systems",
+    "event-driven programming"
+  ],
+  "Experience in Software Project KickStart": [
+    "experience in software project kickstart",
+    "software project kickstart",
+    "project kickstart"
+  ],
+  "EXT js": [
+    "ext js",
+    "javascript application framework",
+    "developing web applications with ext js framework"
+  ],
+  "Extensible HyperText Markup Language XHTML": [
+    "extensible hypertext markup language xhtml",
+    "extensible hypertext markup language",
+    "xhtml",
+    "xhtml  programming language",
+    "extensible hypertext markup language programming language"
+  ],
+  "Extensible markup language XML": [
+    "extensible markup language xml",
+    "extensible markup language",
+    "xml",
+    "xml  programming language"
+  ],
+  "Extensible stylesheet language transformations XSLT": [
+    "extensible stylesheet language transformations xslt",
+    "extensible stylesheet language transformations",
+    "xslt programming language",
+    "extensible stylesheet language transformations  programming language"
+  ],
+  "Extensible stylesheet language XSL": [
+    "extensible stylesheet language xsl",
+    "extensible stylesheet language programming language",
+    "xsl programming language",
+    "xsl",
+    "xsl stylesheet",
+    "xsl - packages"
+  ],
+  "Facebook": ["facebook"],
+  "Fault testing software": [
+    "fault testing software",
+    "fault testing tool",
+    "fault injection testing",
+    "software fault injection"
+  ],
+  "Feng Office Collaboration Platform": [
+    "feng office collaboration platform",
+    "feng office team collaboration",
+    "feng office collaboration"
+  ],
+  "File server software": [
+    "file server software",
+    "file server tool",
+    "file server"
+  ],
+  "FileMaker Pro": [
+    "filemaker pro",
+    "filemaker pro database",
+    "filemaker pro db",
+    "filemaker pro advanced"
+  ],
+  "FileMon": ["filemon", "file monitor"],
+  "FinalBuilder": [
+    "finalbuilder",
+    "descriptionfinalbuilder  tool",
+    "finalbuilder automation tool"
+  ],
+  "Firewall software": ["firewall software", "firewall tool"],
+  "FitNesse": [
+    "fitnesse",
+    "fitnesse software",
+    "fitnesse web server",
+    "fitnesse tools"
+  ],
+  "Flat File Checker": [
+    "flat file checker",
+    "flat file checker data validation tool",
+    "file checker tools",
+    "file checker software",
+    "file checker",
+    "validating data with flat file checker"
+  ],
+  "FlexBox": [
+    "flexbox",
+    "css flexbox",
+    "css flexbox (flexible box)",
+    "flexible box",
+    "flexbox froggy",
+    "flexbox grid",
+    "flexbox cheatsheet",
+    "flexbox - material-ui"
+  ],
+  "Flow chart software": [
+    "flow chart software",
+    "flowchart software",
+    "flowchart tools",
+    "flowchart maker & online diagram software"
+  ],
+  "Fog Creek Software FogBugz": [
+    "fog creek software fogbugz",
+    "fog creek software",
+    "fogbugz software",
+    "fogbugz system software"
+  ],
+  "Formula translation/translator FORTRAN": [
+    "formula translation/translator fortran",
+    "formula translation/translator programming language",
+    "fortran",
+    "fortran programming language",
+    "formula translation/translator",
+    "fortran - formula translation/translator (high-level programming)"
+  ],
+  "Forth": ["forth", "swiftforth", "gforth", "vfx forth", "pforth", "sp-forth"],
+  "Forum One Communications ProjectSpaces": [
+    "forum one communications projectspaces"
+  ],
+  "Functional testing software": [
+    "functional testing software",
+    "functional testing",
+    "functional testing application",
+    "functional testing tools"
+  ],
+  "Fund accounting software": [
+    "fund accounting software",
+    "fund accounting system",
+    "fund accounting application"
+  ],
+  "Gambit Scheme": ["gambit scheme", "gambit", "gambit-c"],
+  "GanttProject": ["ganttproject", "ganttproject project management software"],
+  "Geographic information system GIS software": [
+    "geographic information system gis software",
+    "gis",
+    "gis application",
+    "gis software",
+    "geographic information system"
+  ],
+  "Git": ["git", "git distributed version-control system", "github", "gitlab"],
+  "Glasscubes": ["glasscubes"],
+  "GNU Image Manipulation Program GIMP": [
+    "gnu image manipulation program gimp",
+    "gimp"
+  ],
+  "Google AdWords": [
+    "google adwords",
+    "google ads",
+    "google online advertising platform"
+  ],
+  "Google Analytics": ["google analytics", "google web analytics"],
+  "Google AngularJS": [
+    "google angularjs",
+    "angularjs",
+    "angular javascript",
+    "angularjs api",
+    "angularjs framework"
+  ],
+  "Google Docs": ["google docs", "google word processor", "google forms"],
+  "Google Gmail": ["google gmail", "gmail"],
+  "Google Sheets": ["google sheets", "google spreadsheets"],
+  "Google Slides": ["google slides"],
+  "Grails": ["grails", "grails web framework"],
+  "Graphical user interface GUI builder software": [
+    "graphical user interface gui builder software",
+    "gui builder",
+    "graphic user interface software",
+    "gui software",
+    "gui application",
+    "graphic user interface application",
+    "graphic user interface builder"
+  ],
+  "Graphical user interface GUI design software": [
+    "graphical user interface gui design software",
+    "gui design software",
+    "graphical user interface design software",
+    "gui design application",
+    "graphical user interface design application"
+  ],
+  "Graphical user interfaces GUI": ["graphical user interfaces gui", "gui"],
+  "Greatis Object Inspector": [
+    "greatis object inspector",
+    "greatis",
+    "greatis software",
+    "greatis application"
+  ],
+  "Greenplum Database": [
+    "greenplum database",
+    "greenplum data analytics",
+    "greenplum"
+  ],
+  "Groovy": [
+    "groovy",
+    "apache groovy",
+    "groovy programming language",
+    "apache groovy programing",
+    "groovy programing"
+  ],
+  "Guidance Software EnCase Forensic": [
+    "guidance software encase forensic",
+    "encase",
+    "encase forensic",
+    "encase endpoint investigator",
+    "encase ediscovery",
+    "encase endpoint security",
+    "encase portable",
+    "encase forensic"
+  ],
+  "HashiCorp Vagrant": [
+    "hashicorp vagrant",
+    "vagrant",
+    "vagrant software",
+    "hashicorp vagrant software"
+  ],
+  "Haskell": [
+    "haskell",
+    "haskell language",
+    "haskell programming",
+    "hashicorp vagrant programming",
+    "haskell programming language",
+    "hashicorp haskell programming language",
+    "haskell functional programming language",
+    "haskell functional programming"
+  ],
+  "Healthcare common procedure coding system HCPCS": [
+    "healthcare common procedure coding system hcpcs",
+    "hcpcs",
+    "healthcare common procedure coding system",
+    "hcpcs system"
+  ],
+  "Help desk software": ["help desk software"],
+  "Hewlett Packard HP Project Portfolio Management Solution": [
+    "hewlett packard hp project portfolio management solution",
+    "hp ppm tool",
+    "hp ppm software"
+  ],
+  "Hewlett Packard HP-UX": [
+    "hewlett packard hp-ux",
+    "hp-ux",
+    "hewlett packard unix"
+  ],
+  "Hewlett Packard LoadRunner": [
+    "hewlett packard loadrunner",
+    "loadrunner",
+    "hp loadrunner",
+    "loadrunner tool",
+    "hp loadrunner tool",
+    "loadrunner application",
+    "hp loadrunner application"
+  ],
+  "Hewlett-Packard HP Network Node Manager": [
+    "hewlett-packard hp network node manager",
+    "hp network node manager"
+  ],
+  "Hewlett-Packard HP QuickTest Professional": [
+    "hewlett-packard hp quicktest professional",
+    "hpe unified functional testing (uft)",
+    "hp quicktest professional (qtp)"
+  ],
+  "Hewlett-Packard HP TestDirector for Quality Center": [
+    "hewlett-packard hp testdirector for quality center",
+    "hp quality center",
+    "quality center",
+    "hp quality management software"
+  ],
+  "Hewlett-Packard HP WinRunner": [
+    "hewlett-packard hp winrunner",
+    "hp winrunner",
+    "hp winrunner software"
+  ],
+  "Hibernate ORM": [
+    "hibernate orm",
+    "hibernate",
+    "hibernate query language (hql)",
+    "hibernate orm tool"
+  ],
+  "Hierarchical simulation program with integrated circuit emphasis HSPICE": [
+    "hierarchical simulation program with integrated circuit emphasis hspice",
+    "hspice"
+  ],
+  "HiT Software Allora": [
+    "hit software allora",
+    "health information technology"
+  ],
+  "Honeypot": [
+    "honeypot",
+    "production honeypots",
+    "research honeypots",
+    "pure honeypots",
+    "high-interaction honeypots",
+    "low-interaction honeypots"
+  ],
+  "HP DataProtector": [
+    "hp dataprotector",
+    "hp dataprotector software",
+    "hp dataprotector solutions"
+  ],
+  "HP Fortify": [
+    "hp fortify",
+    "fortify software",
+    "fortify static code analyzer",
+    "fortify static code analysis tool"
+  ],
+  "HP WebInspect": [
+    "hp webinspect",
+    "fortify webinspect",
+    "fortify webinspect\ndynamic application security testing software"
+  ],
+  "Human resource management software HRMS": [
+    "human resource management software hrms",
+    "hrms software",
+    "hcm",
+    "hrms",
+    "human capita management software",
+    "hrms applications",
+    "hcm applications"
+  ],
+  "HyperOffice Collaboration Suite": [
+    "hyperoffice collaboration suite",
+    "hyperoffice products",
+    "hyperoffice solutions",
+    "hyperoffice applications"
+  ],
+  "HyperSpace": [
+    "hyperspace",
+    "hyperspace solutions",
+    "hyperspace data solutions"
+  ],
+  "Hypertext markup language HTML": [
+    "hypertext markup language html",
+    "html",
+    "html5",
+    "dhtml",
+    "hypertext markup language"
+  ],
+  "IBM ADSTAR": [
+    "ibm adstar",
+    "adstar",
+    "advanced storage and retrieval",
+    "adstar distributed storage management (adsm)"
+  ],
+  "IBM AIX": [
+    "ibm aix",
+    "aix (advanced interactive executive)",
+    "advanced interactive executive",
+    "ibm aix (advanced interactive executive)",
+    "ibm aix operating system",
+    "ibm aix os"
+  ],
+  "IBM Cognos Impromptu": [
+    "ibm cognos impromptu",
+    "cognos",
+    "ibm cognos impromptu data warehousing and reporting solution."
+  ],
+  "IBM Content Manager": [
+    "ibm content manager",
+    "ibm web content manager",
+    "ibm lotus web content management"
+  ],
+  "IBM DB2": ["ibm db2", "db2", "ibm data management products"],
+  "IBM Director": [
+    "ibm director",
+    "ibm systems director",
+    "ibm element management system (ems)"
+  ],
+  "IBM Domino": ["ibm domino", "lotus domino", "ibm notes"],
+  "IBM ILOG": ["ibm ilog", "ilog"],
+  "IBM Informix": [
+    "ibm informix",
+    "informix",
+    "informix software",
+    "informix products"
+  ],
+  "IBM InfoSphere DataStage": [
+    "ibm infosphere datastage",
+    "infosphere datastage",
+    "ibm infosphere datastage etl tool",
+    "datastage etl tool"
+  ],
+  "IBM Infosphere Information Server": [
+    "ibm infosphere information server",
+    "infosphere information server"
+  ],
+  "IBM InfoSphere Warehouse": [
+    "ibm infosphere warehouse",
+    "infosphere warehouse",
+    "infosphere warehouse applications"
+  ],
+  "IBM Interactive System Productivity Facility ISPF": [
+    "ibm interactive system productivity facility ispf",
+    "interactive system productivity facility ispf",
+    "ispf"
+  ],
+  "IBM Lotus SameTime": [
+    "ibm lotus sametime",
+    "ibm sametime",
+    "lotus sametime"
+  ],
+  "IBM Middleware": [
+    "ibm middleware",
+    "ibm websphere",
+    "ibm middleware tool",
+    "ibm middleware solutions"
+  ],
+  "IBM NetView": ["ibm netview", "ibm service management suite"],
+  "IBM Notes": ["ibm notes", "ibm email client software", "lotus notes"],
+  "IBM Power Systems software": [
+    "ibm power systems software",
+    "ibm power systems"
+  ],
+  "IBM QRadar SIEM": [
+    "ibm qradar siem",
+    "qradar siem",
+    "ibm network security management platform"
+  ],
+  "IBM Rational Application Developer": [
+    "ibm rational application developer",
+    "rational application developer"
+  ],
+  "IBM Rational Build Forge": [
+    "ibm rational build forge",
+    "ibm rational build forge products",
+    "ibm rational build forge framework"
+  ],
+  "IBM Rational Build Forge Enterprise": [
+    "ibm rational build forge enterprise",
+    "rational build forge",
+    "ibm enterprise build solutions"
+  ],
+  "IBM Rational ClearCase": [
+    "ibm rational clearcase",
+    "rational clearcase",
+    "ibm rational clearcase enterprise-grade configuration management system"
+  ],
+  "IBM Rational ClearQuest": [
+    "ibm rational clearquest",
+    "rational clearquest",
+    "clearquest workflow automation tool"
+  ],
+  "IBM Rational Data Architect": [
+    "ibm rational data architect",
+    "rational data architect",
+    "ibm infosphere data architect collaborative enterprise data modeling and design solution"
+  ],
+  "IBM Rational PurifyPlus": [
+    "ibm rational purifyplus",
+    "rational purifyplus",
+    "purifyplus memory debugger program"
+  ],
+  "IBM Rational Requisite Pro": [
+    "ibm rational requisite pro",
+    "rational requisite pro",
+    "ibm rational requisitepro requirements management tool",
+    "rational requisite pro tool"
+  ],
+  "IBM Rational Robot": [
+    "ibm rational robot",
+    "rational robot",
+    "ibm rational robot tool",
+    "ibm rational robot testing tool",
+    "rational robot testing tool"
+  ],
+  "IBM Rational Rose": ["ibm rational rose", "rational rose"],
+  "IBM Rational Rose XDE Developer": [
+    "ibm rational rose xde developer",
+    "rational rose xde developer"
+  ],
+  "IBM Rational Rose XDE Developer D93": [
+    "ibm rational rose xde developer d93",
+    "rational rose xde developer d93"
+  ],
+  "IBM Rational System Architect": [
+    "ibm rational system architect",
+    "rational system architect",
+    "bm rational system architect enterprise architecture tool"
+  ],
+  "IBM Software Configuration and Library Manager SCLM": [
+    "ibm software configuration and library manager sclm",
+    "ibm sclm",
+    "ibm sclm developer toolkit"
+  ],
+  "IBM SPSS Statistics": [
+    "ibm spss statistics",
+    "ibm spss statistics",
+    "spss statistics software package",
+    "spss software package"
+  ],
+  "IBM Tivoli Access Management TAM": [
+    "ibm tivoli access management tam",
+    "ibm tivoli access management",
+    "ibm tam",
+    "tivoli access manager"
+  ],
+  "IBM Tivoli Identity Management TIM": [
+    "ibm tivoli identity management tim",
+    "ibm tivoli identity management",
+    "ibm tim",
+    "ibm tivoli identity manager"
+  ],
+  "IBM WebSphere": ["ibm websphere", "websphere", "ibm websphere application"],
+  "IBM WebSphere MQ": [
+    "ibm websphere mq",
+    "ibm mq",
+    "mqseries",
+    "ibm mq messaging middleware"
+  ],
+  "IBM z/OS operating systems": [
+    "ibm z/os operating systems",
+    "z/os",
+    "ibm z/os"
+  ],
+  "ICON programming language": ["icon programming language", "icon langauge"],
+  "IEA Software Emerald": [
+    "iea software emerald",
+    "iea software",
+    "iea software's emerald suite"
+  ],
+  "i-lign": ["i-lign"],
+  "Imperva SecureSphere": [
+    "imperva securesphere",
+    "imperva",
+    "imperva securesphere application"
+  ],
+  "Incremental compiler software": [
+    "incremental compiler software",
+    "incremental compiler"
+  ],
+  "Index tuning software": ["index tuning software"],
+  "Infoblox": [
+    "infoblox",
+    "infoblox actionable network intelligence platform",
+    "infoblox private cloud/virtualization",
+    "infoblox public/hybrid cloud",
+    "infoblox  reporting and analytics"
+  ],
+  "Infoblox NetMRI": ["infoblox netmri", "infoblox netmri api"],
+  "Infobright Community Edition ICE": [
+    "infobright community edition ice",
+    "ice",
+    "infobright community edition (ice) analytic database"
+  ],
+  "Informatica Big Data": [
+    "informatica big data",
+    "informatica intelligent cloud services"
+  ],
+  "Informatica Corporation PowerCenter": [
+    "informatica corporation powercenter",
+    "powercenter integration platform"
+  ],
+  "Informatica PowerCenter": [
+    "informatica powercenter",
+    "informatica powercenter platform"
+  ],
+  "Inline code expander software": [
+    "inline code expander software",
+    "inline code expander application"
+  ],
+  "InLoox": [
+    "inloox",
+    "inloox pm",
+    "inloox project management",
+    "nloox now",
+    "inloox - the project management software"
+  ],
+  "InstallShield": [
+    "installshield",
+    "installshield software tool",
+    "installshield software"
+  ],
+  "Integrated development environment IDE software": [
+    "integrated development environment ide software",
+    "ide",
+    "ide software"
+  ],
+  "Integration testing software": [
+    "integration testing software",
+    "integration testing framework",
+    "integration testing tools"
+  ],
+  "Integrity verification software": [
+    "integrity verification software",
+    "integrity verification tools",
+    "integrity verification services"
+  ],
+  "Intel Data Migration Software": [
+    "intel data migration software",
+    "intel data migration application"
+  ],
+  "Intellisys Project Desktop": ["intellisys project desktop"],
+  "Interface Computers Data Loader": [
+    "interface computers data loader",
+    "data loader tools",
+    "data loading tools"
+  ],
+  "Interface definition language IDL": [
+    "interface definition language idl",
+    "interface description language"
+  ],
+  "Intermediate System to Intermediate System IS-IS": [
+    "intermediate system to intermediate system is-is",
+    "isis routing protocol",
+    "intermediate system to intermediate system protocol",
+    "is-is routing protocol"
+  ],
+  "Internet Protocol Security IPSEC": [
+    "internet protocol security ipsec",
+    "internet protocol security network protocol suite",
+    "ipsec protocol suite"
+  ],
+  "Interoperability testing software": [
+    "interoperability testing software",
+    "interoperability testing application"
+  ],
+  "Interpreter software": ["interpreter software", "interpreter"],
+  "Interstate connection ICON": [
+    "interstate connection icon",
+    "icon",
+    "icon system",
+    "interstate connection system",
+    "interstate connection"
+  ],
+  "Intland Software codeBeamer": [
+    "intland software codebeamer",
+    "codebeamer application lifecycle management",
+    "codebeamer application"
+  ],
+  "Intrusion detection system IDS": [
+    "intrusion detection system ids",
+    "ids",
+    "intrusion detection system"
+  ],
+  "Intrusion prevention system IPS": [
+    "intrusion prevention system ips",
+    "intrusion prevention system",
+    "ips",
+    "intrusion prevention system (ips) network security/threat prevention technology",
+    "intrusion prevention system network security/threat prevention technology",
+    "ips network security/threat prevention technology"
+  ],
+  "Intuit QuickBase": ["intuit quickbase", "quickbase platform"],
+  "IONA Orbix": ["iona orbix", "iona artix", "iona fuse", "iona orbacus"],
+  "IpFilter": [
+    "ipfilter",
+    "ipfilter software",
+    "ipf software",
+    "ipfilter software package"
+  ],
+  "Ipswitch WhatsUp Gold": [
+    "ipswitch whatsup gold",
+    "whatsup gold network monitoring software",
+    "whatsup goldsoftware",
+    "whatsup gold network monitoring"
+  ],
+  "IpTables": [
+    "iptables",
+    "iptables program",
+    "iptables user-space utility program"
+  ],
+  "ISS RealSecure": [
+    "iss realsecure",
+    "ibm internet security systems",
+    "iss realsecure server sensor"
+  ],
+  "Issue tracking system software": [
+    "issue tracking system software",
+    "issue tracking softwares",
+    "issue tracking applications",
+    "issue tracking systems",
+    "issue tracking tools"
+  ],
+  "JavaScript": [
+    "javascript",
+    "javascript programming language",
+    "js programming language",
+    "javascript programming",
+    "javascript language",
+    "js",
+    "js programming"
+  ],
+  "JavaScript Object Notation JSON": [
+    "javascript object notation json",
+    "javascript object notation",
+    "json"
+  ],
+  "Jekyll": ["jekyll", "jekyll software"],
+  "JetBrains IntelliJ IDEA": [
+    "jetbrains intellij idea",
+    "intelli java integrated development environment (ide)",
+    "intellij idea"
+  ],
+  "JetBrains PhpStorm": ["jetbrains phpstorm", "phpstorm", "phpstorm ide"],
+  "JetBrains Team City": ["jetbrains team city", "teamcity software"],
+  "Jitterbit": [
+    "jitterbit",
+    "jitterbit api integration platform",
+    "jitterbit integration solutions",
+    "jitterbit integration platform"
+  ],
+  "Job control language JCL": [
+    "job control language jcl",
+    "jcl",
+    "job control language"
+  ],
+  "jQuery": ["jquery", "jquery javascript library"],
+  "Juniper Networks NetScreen-Security Manager": [
+    "juniper networks netscreen-security manager",
+    "network and security manager",
+    "netscreen-security manager",
+    "nsm"
+  ],
+  "Junit": ["junit", "junit-tools"],
+  "Just-in-time compiler": ["just-in-time compiler", "jit compiler"],
+  "Kali Linux": ["kali linux", "kali linux tools"],
+  "Keystroke monitoring software": [
+    "keystroke monitoring software",
+    "keystroke monitoring application",
+    "keystroke monitoring tools"
+  ],
+  "Kforge": ["kforge", "kforge enterprise application"],
+  "Kidasa Milestones Professional": [
+    "kidasa milestones professional",
+    "milestones professional",
+    "milestones professional project scheduling software"
+  ],
+  "KOffice.org Kplato": [
+    "koffice.org kplato",
+    "kword",
+    "kspread",
+    "kpresenter"
+  ],
+  "KommandCore": ["kommandcore", "kommandcore saas service", "commandcore"],
+  "KornShell": [
+    "kornshell",
+    "kornshell scripting",
+    "kornshell language",
+    "kornshell scripting language"
+  ],
+  "LAMP Stack": ["lamp stack", "lamp software", "lamp (software bundle)"],
+  "Lavalys Everest": [
+    "lavalys everest",
+    "lavalys' everest software suite",
+    "everest software suite",
+    "everest ultimate edition"
+  ],
+  "LexisNexis": ["lexisnexis"],
+  "LibreOffice": ["libreoffice", "libreoffice office suite,"],
+  "License management software": [
+    "license management software",
+    "license management application",
+    "license management system"
+  ],
+  "Link encryption software": [
+    "link encryption software",
+    "link encryption application",
+    "link encryption system"
+  ],
+  "LinkedIn": ["linkedin"],
+  "Linux": ["linux", "unix"],
+  "LiquidPlanner": [
+    "liquidplanner",
+    "liquidplanner project management software"
+  ],
+  "List processing language LISP": [
+    "list processing language lisp",
+    "lisp",
+    "list processing language",
+    "lisp computer programming languages"
+  ],
+  "Load testing software": [
+    "load testing software",
+    "load testing tools",
+    "load testing applications"
+  ],
+  "Local area network LAN software": [
+    "local area network lan software",
+    "local area network software",
+    "lan software"
+  ],
+  "Logic Software Easy Projects.NET": [
+    "logic software easy projects.net",
+    "easy projects",
+    "easy projects: project management software"
+  ],
+  "Logical partition LPAR software": [
+    "logical partition lpar software",
+    "logical partition software",
+    "lpar software"
+  ],
+  "LogMatrix NerveCenter": [
+    "logmatrix nervecenter",
+    "nervecenter",
+    "nervecenter solutions",
+    "nervecentre software"
+  ],
+  "Logo": ["logo"],
+  "LogRhythm": [
+    "logrhythm",
+    "logrhythm's security intelligence and analytics platform"
+  ],
+  "Low-level debugger software": [
+    "low-level debugger software",
+    "debugger software"
+  ],
+  "Lucent VitalSuite": [
+    "lucent vitalsuite",
+    "vitalsuite performance management system"
+  ],
+  "LuntBuild": [
+    "luntbuild",
+    "luntbuild tool",
+    "luntbuild build automation and management tool"
+  ],
+  "Mac HelpMate": [
+    "mac helpmate",
+    "mac helpmate tool",
+    "mac helpmate application"
+  ],
+  "Mac OS X": ["mac os x", "macos", "os x"],
+  "Madrigal Soft Tools Delegator": [
+    "madrigal soft tools delegator",
+    "delegator",
+    "madrigal soft tools"
+  ],
+  "Magellan Firmware": ["magellan firmware"],
+  "Management information base MIB software": [
+    "management information base mib software",
+    "mib software",
+    "management information base software",
+    "management information base application"
+  ],
+  "MantisBT": ["mantisbt", "mantis bug tracker"],
+  "MapR Converged Data Platform": ["mapr converged data platform", "mapr"],
+  "MariaDB": ["mariadb", "mariadb database server"],
+  "Marketo Marketing Automation": [
+    "marketo marketing automation",
+    "marketo engagement platform",
+    "marketo lead management",
+    "marketo sales insight",
+    "marketo revenue cycle analytics",
+    "marketo social marketing"
+  ],
+  "MarkLogic": ["marklogic", "marklogic server"],
+  "MatchWare MindView": ["matchware mindview", "mind mapping software"],
+  "McAfee": [
+    "mcafee",
+    "ntrushield",
+    "mcafee change control",
+    "mcafee e-business server",
+    "mcafee entercept",
+    "mcafee siteadvisor",
+    "mcafee virusscan"
+  ],
+  "McAfee VirusScan": [
+    "mcafee virusscan",
+    "mcafee antivirus program",
+    "mcafee virusscan protection"
+  ],
+  "MEDITECH software": ["meditech software", "meditech ehr"],
+  "Metasploit": [
+    "metasploit",
+    "metasploit framework edition",
+    "metasploit community edition",
+    "metasploit express",
+    "metasploit pro",
+    "armitage",
+    "cobalt strike"
+  ],
+  "MeteorJS": [
+    "meteorjs",
+    "meteor toys",
+    "meteor candy",
+    "injectdetect",
+    "vulcan.js",
+    "apollo"
+  ],
+  "Micosoft SQL Server Analysis Services ": [
+    "micosoft sql server analysis services",
+    "microsoft ssas",
+    "microsoft analysis services"
+  ],
+  "Micro Focus OpenView": ["micro focus openview"],
+  "Micromuse NetCool": [
+    "micromuse netcool",
+    "ibm micromuse netcool",
+    "netcool network management"
+  ],
+  "Microsoft .NET Framework": [
+    "microsoft .net framework",
+    "asp.net",
+    "vb.net",
+    "ado.net",
+    "microsoft .net"
+  ],
+  "Microsoft Access": [
+    "microsoft access",
+    "microsoft access database management system (dbms)",
+    "microsoft access dbms",
+    "ms access"
+  ],
+  "Microsoft Active Directory": [
+    "microsoft active directory",
+    "active directory domain services"
+  ],
+  "Microsoft Active Server Pages ASP": [
+    "microsoft active server pages asp",
+    "active server pages",
+    "microsoft active server pages",
+    "asp",
+    "classic asp"
+  ],
+  "Microsoft ActiveX": ["microsoft activex", "activex", "activex framework"],
+  "Microsoft ASP.NET": ["microsoft asp.net", "asp.net", "asp.net framework"],
+  "Microsoft Commerce Server": ["microsoft commerce server"],
+  "Microsoft DirectX": ["microsoft directx", "directx"],
+  "Microsoft Dynamics": [
+    "microsoft dynamics",
+    "microsoft dynamics management reporter",
+    "microsoft dynamics for retail",
+    "microsoft dynamics for marketing",
+    "microsoft dynamics social listening"
+  ],
+  "Microsoft Dynamics GP": ["microsoft dynamics gp"],
+  "Microsoft ESP SDK": ["microsoft esp sdk", "microsoft esp"],
+  "Microsoft Excel": [
+    "microsoft excel",
+    "ms excel",
+    "miscrosoft spreadsheet software"
+  ],
+  "Microsoft Exchange Server": ["microsoft exchange server"],
+  "Microsoft Extensible Application Markup Language (XAML)": [
+    "microsoft extensible application markup language (xaml)",
+    "extensible application markup language",
+    "xaml"
+  ],
+  "Microsoft Forefront Identify Manager": [
+    "microsoft forefront identify manager",
+    "forefront identity manager",
+    "microsoft identity management software product"
+  ],
+  "Microsoft Forefront Threat Management Gateway": [
+    "microsoft forefront threat management gateway",
+    "microsoft internet security and acceleration server",
+    "forefront tmg",
+    "isa server"
+  ],
+  "Microsoft FrontPage": [
+    "microsoft frontpage",
+    "microsoft office frontpage",
+    "microsoft frontpage html tools"
+  ],
+  "Microsoft Hyper-V Server": [
+    "microsoft hyper-v server",
+    "hyper-v",
+    "hyper-v server",
+    "windows server virtualization"
+  ],
+  "Microsoft Internet Explorer": [
+    "microsoft internet explorer",
+    "internet explorer"
+  ],
+  "Microsoft Internet Information Service IIS": [
+    "microsoft internet information service iis",
+    "internet information services",
+    "iis web server",
+    "iis server"
+  ],
+  "Microsoft Office": ["microsoft office", "office 365", "ms office"],
+  "Microsoft operating system": [
+    "microsoft operating system",
+    "windows os",
+    "microsoft windows operating system",
+    "ms windows"
+  ],
+  "Microsoft Outlook": ["microsoft outlook", "outlook"],
+  "Microsoft PowerPoint": [
+    "microsoft powerpoint",
+    "power point presentation tool"
+  ],
+  "Microsoft PowerShell": ["microsoft powershell", "powershell"],
+  "Microsoft Project": [
+    "microsoft project",
+    "microsoft project management software"
+  ],
+  "Microsoft Publisher": ["microsoft publisher", "ms publisher"],
+  "Microsoft SharePoint": [
+    "microsoft sharepoint",
+    "sharepoint",
+    "sharepoint server",
+    "sharepoint enterprise"
+  ],
+  "Microsoft Silverlight": ["microsoft silverlight", "silverlight"],
+  "Microsoft SQL Server": [
+    "microsoft sql server",
+    "sql server",
+    "microsoft rdbms",
+    "microsoft relational database management system"
+  ],
+  "Microsoft SQL Server Integration Services SSIS": [
+    "microsoft sql server integration services ssis",
+    "microsoft sql server integration services",
+    "ssis",
+    "sql server integration services"
+  ],
+  "Microsoft SQL Server Reporting Services": [
+    "microsoft sql server reporting services",
+    "ssrs",
+    "sql server reporting services"
+  ],
+  "Microsoft Systems Management Server": [
+    "microsoft systems management server",
+    "systems management server (sms)",
+    "configmgr"
+  ],
+  "Microsoft Team Foundation Server": [
+    "microsoft team foundation server",
+    "team foundation server"
+  ],
+  "Microsoft transact-structural query language T-SQL": [
+    "microsoft transact-structural query language t-sql",
+    "microsoft transact-structural query language",
+    "t-sql"
+  ],
+  "Microsoft Visio": ["microsoft visio", "microsoft office visio", "visio"],
+  "Microsoft Visual Basic": [
+    "microsoft visual basic",
+    "microsoft vb",
+    "visual basic programming language"
+  ],
+  "Microsoft Visual Basic Scripting Edition VBScript": [
+    "microsoft visual basic scripting edition vbscript",
+    "vbscript",
+    "microsoft visual basic scripting edition"
+  ],
+  "Microsoft Visual Basic.NET": ["microsoft visual basic.net", "vb.net"],
+  "Microsoft Visual C#": [
+    "microsoft visual c#",
+    "c sharp",
+    "c sharp (programming language)"
+  ],
+  "Microsoft Visual C# .NET": [
+    "microsoft visual c# .net",
+    "c sharp .net",
+    "c sharp .net programming"
+  ],
+  "Microsoft Visual FoxPro": [
+    "microsoft visual foxpro",
+    "visual foxpro programming language"
+  ],
+  "Microsoft Visual InterDev": ["microsoft visual interdev", "visual interdev"],
+  "Microsoft Visual SourceSafe": ["microsoft visual sourcesafe", "vss"],
+  "Microsoft Visual Studio": ["microsoft visual studio", "visual studio ide"],
+  "Microsoft Visual Studio Team Foundation Server": [
+    "microsoft visual studio team foundation server",
+    "team foundation server"
+  ],
+  "Microsoft Windows": ["microsoft windows", "windows 10", "windows xp"],
+  "Microsoft Windows SDK": ["microsoft windows sdk", "microsoft windows sdk"],
+  "Microsoft Windows Server": [
+    "microsoft windows server",
+    "windows server 2019"
+  ],
+  "Microsoft Windows Sysprep": [
+    "microsoft windows sysprep",
+    "microsoft sysprep",
+    "microsoft sysprep"
+  ],
+  "Microsoft Windows Terminal Services Access Manager": [
+    "microsoft windows terminal services access manager",
+    "microsoft terminal services access manager",
+    "microsoft services access manager"
+  ],
+  "Microsoft Word": ["microsoft word", "ms word", "microsoft word processing"],
+  "MicroStrategy": [
+    "microstrategy",
+    "microstrategy business intelligence application",
+    "microstrategy business intelligence software",
+    "microstrategy analytics"
+  ],
+  "Migration software": [
+    "migration software",
+    "migration application",
+    "migration tool"
+  ],
+  "Migration testing software": [
+    "migration testing software",
+    "migration testing application",
+    "migration testing tool"
+  ],
+  "Mind mapping software": [
+    "mind mapping software",
+    "mind mapping application",
+    "mind mapping system"
+  ],
+  "MindGenius": [
+    "mindgenius",
+    "mindgenius project management",
+    "mindgenius mindmapping"
+  ],
+  "Minitab": [
+    "minitab",
+    "minitab statistical software",
+    "minitab application",
+    "minitab statistical application"
+  ],
+  "MinuteMan Systems MinuteMan Project Management Software": [
+    "minuteman systems minuteman project management software",
+    "minuteman systems minuteman project management software",
+    "minuteman project management software",
+    "minuteman project management application"
+  ],
+  "Mixed code generator": ["mixed code generator"],
+  "Modula": ["modula"],
+  "MongoDB": [
+    "mongodb",
+    "mongodb community server",
+    "mongodb enterprise server",
+    "mongodb atlas"
+  ],
+  "Mozilla Firefox": [
+    "mozilla firefox",
+    "mozilla firefox browser",
+    "firefox browser",
+    "mozilla browser"
+  ],
+  "MPI Micro Planner X-Pert": ["mpi micro planner x-pert", "x-pert"],
+  "Multidimensional Expressions MDX": [
+    "multidimensional expressions mdx",
+    "mdx",
+    "multidimensional expressions"
+  ],
+  "Multiprotocol Label Switching MPLS": [
+    "multiprotocol label switching mpls",
+    "multiprotocol label switching",
+    "mpls"
+  ],
+  "Multi-router traffic grapher MRTG software": [
+    "multi-router traffic grapher mrtg software",
+    "multi-router traffic grapher mrtg application",
+    "multi-router traffic grapher mrtg system",
+    "mrtg software",
+    "multi-router traffic grapher software"
+  ],
+  "MUMPS M": [
+    "mumps m",
+    "multifrontal massively parallel sparse direct solver"
+  ],
+  "Mutation testing software": [
+    "mutation testing software",
+    "mutation testing application"
+  ],
+  "MySQL": [
+    "mysql",
+    "mysql enterprise edition",
+    "mysql relational database management system",
+    "mysql rdbms"
+  ],
+  "Nagios": ["nagios", "nagios core"],
+  "National Instruments LabVIEW": [
+    "national instruments labview",
+    "labview",
+    "laboratory virtual instrument engineering workbench"
+  ],
+  "NetIQ": ["netiq", "netiq access manager", "netiq identity manager"],
+  "Netreo OmniCenter": ["netreo omnicenter", "netreo high availability"],
+  "NetScout InfinitiStream Console": [
+    "netscout infinitistream console",
+    "ngeniusone",
+    "ngeniuspulse",
+    "truview"
+  ],
+  "NetSuite ERP": [
+    "netsuite erp",
+    "netsuite crm",
+    "netsuite psa",
+    "netsuite suitepeople"
+  ],
+  "Network address management software": [
+    "network address management software",
+    "network address management application",
+    "network address management system"
+  ],
+  "Network addressable storage NAS software": [
+    "network addressable storage nas software",
+    "network addressable storage nas application",
+    "network addressable storage nas system"
+  ],
+  "Network and application load and performance testing software": [
+    "network and application load and performance testing software",
+    "network and application load and performance testing application",
+    "network and application load and performance testing system"
+  ],
+  "Network and component performance analysis software": [
+    "network and component performance analysis software",
+    "network and component performance analysis application",
+    "network and component performance analysis system"
+  ],
+  "Network and system vulnerability assessment software": [
+    "network and system vulnerability assessment software",
+    "network and system vulnerability assessment application",
+    "network and system vulnerability assessment system"
+  ],
+  "Network architecture design software": [
+    "network architecture design software",
+    "network architecture design application",
+    "network architecture design system"
+  ],
+  "Network availability monitoring software": [
+    "network availability monitoring software",
+    "network availability monitoring application",
+    "network availability monitoring system"
+  ],
+  "Network bridge software": [
+    "network bridge software",
+    "network bridge application",
+    "network bridge system"
+  ],
+  "Network directory services software": [
+    "network directory services software",
+    "network directory services application",
+    "network directory services system"
+  ],
+  "Network documentation software": [
+    "network documentation software",
+    "network documentation application",
+    "network documentation system"
+  ],
+  "Network intrusion detection software": [
+    "network intrusion detection software",
+    "network intrusion detection application",
+    "network intrusion detection system"
+  ],
+  "Network intrusion prevention systems NIPS": [
+    "network intrusion prevention systems nips",
+    "nips",
+    "network intrusion prevention systems"
+  ],
+  "Network management software": [
+    "network management software",
+    "network management application",
+    "network management system"
+  ],
+  "Network modeling, mapping, and analysis software": [
+    "network modeling, mapping, and analysis software",
+    "network modeling, mapping, and analysis appliction",
+    "network modeling, mapping, and analysis system"
+  ],
+  "Network reporting software": [
+    "network reporting software",
+    "network reporting application",
+    "network reporting system"
+  ],
+  "Network security auditing software": [
+    "network security auditing software",
+    "network security auditing application",
+    "network security auditing system"
+  ],
+  "Network shutdown software": [
+    "network shutdown software",
+    "network shutdown application",
+    "network shutdown system"
+  ],
+  "Network storage software": [
+    "network storage software",
+    "network storage application",
+    "network storage system"
+  ],
+  "Network traffic flow monitoring and analysis software": [
+    "network traffic flow monitoring and analysis software",
+    "network traffic flow monitoring and analysis application",
+    "network traffic flow monitoring and analysis system"
+  ],
+  "Network traffic probe software": [
+    "network traffic probe software",
+    "network traffic probe application",
+    "network traffic probe system"
+  ],
+  "Network, hardware, and software auditing software": [
+    "network, hardware, and software auditing software",
+    "network, hardware, and software auditing application",
+    "network, hardware, and software auditing system"
+  ],
+  "Network, server and operating system optimization software": [
+    "network, server and operating system optimization software",
+    "network, server and operating system optimization application",
+    "network, server and operating system optimization system"
+  ],
+  "Ninian Huddle": [
+    "ninian huddle",
+    "huddle team collaboration software",
+    "huddle software"
+  ],
+  "Node.js": ["node.js", "node.js javascript run-time environment", "nodejs"],
+  "NoSQL": ["nosql", "nosql database", "mongo db", "mongodb", "cassandra"],
+  "NovaMind Merlin Project Manager": [
+    "novamind merlin project manager",
+    "merlin project manager"
+  ],
+  "Novell NetWare Management Station": [
+    "novell netware management station",
+    "novell netware",
+    "netware"
+  ],
+  "Nunit": ["nunit", "nunit testing framework"],
+  "Nunjucks": ["nunjucks"],
+  "O3spaces Workplace": ["o3spaces workplace", "o3spaces"],
+  "Oberon": ["oberon", "oberon (operating system)"],
+  "Object database management system ODBMS": [
+    "object database management system odbms",
+    "object-oriented database management system",
+    "object database management system",
+    "odbms"
+  ],
+  "Object Management Group Object Request Broker": [
+    "object management group object request broker"
+  ],
+  "Objective C": [
+    "objective c",
+    "objective programming language",
+    "objective-c object-oriented programming language",
+    "objective-c programming language",
+    "objective-c language"
+  ],
+  "Objective Caml": [
+    "objective caml",
+    "ocaml",
+    "caml programming language",
+    "objective caml programming",
+    "objective caml language"
+  ],
+  "Objective Decision Contactizer Pro": [
+    "objective decision contactizer pro",
+    "contactizer pro"
+  ],
+  "OfficeWork Software TurboProject": [
+    "officework software turboproject",
+    "turboproject 7 express",
+    "turboproject 7 professional"
+  ],
+  "Omni Group OmniGraffle": ["omni group omnigraffle", "omnigraffle"],
+  "One pass compiler software": [
+    "one pass compiler software",
+    "one pass compiler"
+  ],
+  "Online traffic calculator software": [
+    "online traffic calculator software",
+    "online traffic calculator system",
+    "online traffic calculator application"
+  ],
+  "Open Dynamics Collabtive": [
+    "open dynamics collabtive",
+    "collabtive",
+    "collabtive project management software."
+  ],
+  "Open Graphics Library OpenGL": [
+    "open graphics library opengl",
+    "opengl",
+    "bugle",
+    "amd codexl"
+  ],
+  "Open Shortest Path First OSPF": [
+    "open shortest path first ospf",
+    "open shortest path first",
+    "ospf"
+  ],
+  "Open source routing protocols OSPF": [
+    "open source routing protocols ospf",
+    "open source routing protocols"
+  ],
+  "OpenMake Software Meister": ["openmake software meister", "meister"],
+  "OpenMake Software Mojo": ["openmake software mojo", "mojo"],
+  "OpenService Open NerveCenter": [
+    "openservice open nervecenter",
+    "nervecenter for application monitoring",
+    "nervecenter for network monitoring",
+    "nervecenter for services monitoring",
+    "virtualization, cloud, and saas monitoring",
+    "trap forwarding with trapcenter",
+    "nervecenter for automation and event correlation"
+  ],
+  "Operating system process control software": [
+    "operating system process control software",
+    "operating system process control system",
+    "operating system process control application"
+  ],
+  "Operating system shells": [
+    "operating system shells",
+    "shell computing",
+    "shell programing"
+  ],
+  "OPNET APMXpert": [
+    "opnet apmxpert",
+    "opnet modeler\u00ae suite",
+    "opnet appinternals xpert\u00ae",
+    "opnet appresponse xpert\u00ae",
+    "opnet netmapper\u00ae",
+    "opnet sentinel\u00ae",
+    "opnet vne server",
+    "opnet netplanner\u00ae",
+    "opnet appsensor xpert\u2122",
+    "opnet apptransaction xpert\u2122"
+  ],
+  "Optical network management software": [
+    "optical network management software",
+    "optical network management system",
+    "optical network management application"
+  ],
+  "Oracle Application Express APEX": [
+    "oracle application express apex",
+    "oracle html db",
+    "oracle apex",
+    "application express"
+  ],
+  "Oracle Application Server": ["oracle application server"],
+  "Oracle Business Intelligence Discoverer": [
+    "oracle business intelligence discoverer",
+    "oracle bi discoveror"
+  ],
+  "Oracle Business Intelligence Enterprise Edition": [
+    "oracle business intelligence enterprise edition",
+    "oracle bi enterprise edition"
+  ],
+  "Oracle Business Intelligence Suite": [
+    "oracle business intelligence suite",
+    "oracle bi suite"
+  ],
+  "Oracle Data Guard": ["oracle data guard"],
+  "Oracle Data Integrator": ["oracle data integrator"],
+  "Oracle DBMS": ["oracle dbms", "oracle db", "oracle database"],
+  "Oracle Designer": ["oracle designer"],
+  "Oracle E-Business Suite Financials": [
+    "oracle e-business suite financials",
+    "oracle e-biz financials",
+    "oracle e-business financials"
+  ],
+  "Oracle Eloqua": ["oracle eloqua"],
+  "Oracle Enterprise Manager": [
+    "oracle enterprise manager",
+    "oem",
+    "oracle em"
+  ],
+  "Oracle Enterprise Manager Cloud Control": [
+    "oracle enterprise manager cloud control"
+  ],
+  "Oracle Fusion Applications": ["oracle fusion applications", "oracle fusion"],
+  "Oracle Fusion Middleware": ["oracle fusion middleware", "oracle fusion"],
+  "Oracle Golden Gate": ["oracle golden gate"],
+  "Oracle Hyperion": ["oracle hyperion", "hyperion"],
+  "Oracle Java": ["oracle java", "java"],
+  "Oracle Java 2 Platform Enterprise Edition J2EE": [
+    "oracle java 2 platform enterprise edition j2ee",
+    "java j2ee"
+  ],
+  "Oracle Java EE": ["oracle java ee"],
+  "Oracle JavaServer Pages JSP": ["oracle javaserver pages jsp", "oracle jsp"],
+  "Oracle JD Edwards EnterpriseOne": [
+    "oracle jd edwards enterpriseone",
+    "jd edwards"
+  ],
+  "Oracle JDBC": ["oracle jdbc", "java database connectivity"],
+  "Oracle Jdeveloper": ["oracle jdeveloper"],
+  "Oracle Learning Management": [
+    "oracle learning management",
+    "oracle lms",
+    "oracle  learning managemnt system",
+    "oracle elm",
+    "oracle enterprise learning management"
+  ],
+  "Oracle Master Data Management MDM Suite": [
+    "oracle master data management mdm suite",
+    "oracle mdm suite",
+    "oracle master data management suite"
+  ],
+  "Oracle Migration Workbench": ["oracle migration workbench"],
+  "Oracle Net Manager": ["oracle net manager"],
+  "Oracle PeopleSoft": ["oracle peoplesoft", "oracle ps", "peoplesoft"],
+  "Oracle PeopleSoft Financials": [
+    "oracle peoplesoft financials",
+    "peoplesoft financials",
+    "peoplesoft fscm"
+  ],
+  "Oracle PL/SQL": [
+    "oracle pl/sql",
+    "oracle programming language/sql",
+    "oracle pl/structutred query language",
+    "pl/sql"
+  ],
+  "Oracle Primavera Enterprise Project Portfolio Management": [
+    "oracle primavera enterprise project portfolio management",
+    "oracle primavera enterprise ppm"
+  ],
+  "Oracle Primavera P6 Professional Project Management": [
+    "oracle primavera p6 professional project management",
+    "oracle primavera p6 ppm"
+  ],
+  "Oracle Real Application Cluster RAC": [
+    "oracle real application cluster rac",
+    "oracle real application cluster",
+    "oracle rac"
+  ],
+  "Oracle Recovery Manager": ["oracle recovery manager"],
+  "Oracle Reports": ["oracle reports"],
+  "Oracle Solaris": ["oracle solaris"],
+  "Oracle Solaris Zones": ["oracle solaris zones"],
+  "Oracle SQL Loader": [
+    "oracle sql loader",
+    "oracle structured query language loader"
+  ],
+  "Oracle SQL Plus": [
+    "oracle sql plus",
+    "oracle structured query language plus"
+  ],
+  "Oracle Taleo": ["oracle taleo"],
+  "Oracle WebLogic Server": ["oracle weblogic server", "oracle weblogic"],
+  "OrCAD Capture": ["orcad capture", "orcad"],
+  "Packet analysis software": [
+    "packet analysis software",
+    "packet sniffing tool\u200e",
+    "packet sniffers",
+    "packet sniffer tools",
+    "packet analyzers",
+    "network packet analysis tool"
+  ],
+  "Packet filter software": [
+    "packet filter software",
+    "packet filter",
+    "packet filtering",
+    "pf"
+  ],
+  "Packet tracing software": ["packet tracing software", "packet tracer"],
+  "Palbridge Ubidesk": ["palbridge ubidesk", "palbridge", "ubidesk"],
+  "Palo Alto Networks Next-Generation Security Platform": [
+    "palo alto networks next-generation security platform",
+    "palo",
+    "alto",
+    "palo alto networks"
+  ],
+  "Partial class generator software": [
+    "partial class generator software",
+    "partial class",
+    "partial class generator"
+  ],
+  "Pascal": ["pascal"],
+  "Password cracker software": [
+    "password cracker software",
+    "password cracking tools",
+    "passowrd hacking tools",
+    "password cracker",
+    "password cracking"
+  ],
+  "Password management software": [
+    "password management software",
+    "password management",
+    "password managers",
+    "password management tool"
+  ],
+  "Patch and update management software": [
+    "patch and update management software",
+    "patch management tools",
+    "patch management"
+  ],
+  "Patch management software": ["patch management software"],
+  "Penetration testing software": [
+    "penetration testing software",
+    "penetration testing tools",
+    "penetration testing"
+  ],
+  "Pentaho Kettle": ["pentaho kettle", "pentaho kettle"],
+  "Perforce Helix software": [
+    "perforce helix software",
+    "perforce",
+    "perforce software",
+    "helix core"
+  ],
+  "Perl shell": ["perl shell", "perl shell", "psh"],
+  "Personal computer diagnostic software": [
+    "personal computer diagnostic software",
+    "pc diagnostic software",
+    "pc's health"
+  ],
+  "PhantomJS": ["phantomjs"],
+  "PHP: Hypertext Preprocessor": [
+    "php: hypertext preprocessor",
+    "php",
+    "hypertext preprocessor"
+  ],
+  "Ping Identity": ["ping identity"],
+  "Planbox": ["planbox"],
+  "Planisware": ["planisware"],
+  "Planview Process Builder": ["planview process builder", "planview"],
+  "pm ase QuickBuild": ["pm ase quickbuild", "pmease quickbuild", "quickbuild"],
+  "Popkin System Architect": ["popkin system architect", "popkin"],
+  "Portswigger BurP Suite": ["portswigger burp suite", "portswigger"],
+  "PostgreSQL": ["postgresql", "postgres"],
+  "PowerSoft PowerBuilder": [
+    "powersoft powerbuilder",
+    "powersoft powerbuilder"
+  ],
+  "Practical extraction and reporting language Perl": [
+    "practical extraction and reporting language perl",
+    "practical extraction and reporting language",
+    "perl"
+  ],
+  "Process control system": [
+    "process control system",
+    "process control systems (pcs)",
+    "pcs"
+  ],
+  "Program checksumming software": [
+    "program checksumming software",
+    "checksum software",
+    "checksum tool"
+  ],
+  "Programming language one PL/I": [
+    "programming language one pl/i",
+    "programming language one",
+    "pl/i"
+  ],
+  "Progress OpenEdge ABL": ["progress openedge abl", "progress openedge"],
+  "Progress Sonic ESB": ["progress sonic esb", "progress sonic"],
+  "Progress WebSpeed Workshop": [
+    "progress webspeed workshop",
+    "progress webspeed"
+  ],
+  "Project Manager Online ProjectManager.com": [
+    "project manager online projectmanager.com",
+    "projectmanager.com",
+    "project manager online"
+  ],
+  "Project portfolio management PPM software": [
+    "project portfolio management ppm software",
+    "project portfolio management",
+    "ppm software",
+    "ppm"
+  ],
+  "Project.net": ["project.net"],
+  "ProjectLibre": ["projectlibre"],
+  "Project-Open": ["project-open"],
+  "Projecturf": ["projecturf"],
+  "Prolog": ["prolog"],
+  "PTC Creo Parametric": ["ptc creo parametric", "ptc creo"],
+  "Puppet": ["puppet"],
+  "PuTTY": ["putty"],
+  "Python": ["python"],
+  "Qlik Tech QlikView": ["qlik tech qlikview", "qlik", "qlikview"],
+  "QNX": ["qnx", "qnx", "quantum software systems"],
+  "QSM SLIM Suite": ["qsm slim suite"],
+  "Qualys Cloud Platform": ["qualys cloud platform"],
+  "Quest BigBrother": ["quest bigbrother", "bigbrother"],
+  "Quest Central": ["quest central"],
+  "Quest Foglight": ["quest foglight"],
+  "Quest SharePlex": ["quest shareplex"],
+  "Quest SQL Optimizer for Oracle": [
+    "quest sql optimizer for oracle",
+    "quest sql optimizer"
+  ],
+  "R": ["r"],
+  "Rapid7 Nexpose": ["rapid7 nexpose"],
+  "Rapide": ["rapide"],
+  "Rapid-I RapidMiner": ["rapid-i rapidminer", "rapidminer"],
+  "Real time operating system RTOS software": [
+    "real time operating system rtos software",
+    "rtos",
+    "realtime operating system"
+  ],
+  "Recovery testing software": [
+    "recovery testing software",
+    "recovery testing"
+  ],
+  "ReCrystallize Crystal Reports": [
+    "recrystallize crystal reports",
+    "recrystallize"
+  ],
+  "Red Hat Ansible Engine": ["red hat ansible engine", "ansible engine"],
+  "Red Hat Enterprise Linux": ["red hat enterprise linux"],
+  "Red Hat WildFly": ["red hat wildfly", "wildfly"],
+  "Redgate SQL Server": ["redgate sql server"],
+  "Redmine": ["redmine"],
+  "RegMon": ["regmon"],
+  "Regression testing software": [
+    "regression testing software",
+    "regression testing"
+  ],
+  "Relational database management software": [
+    "relational database management software",
+    "rdbms",
+    "relational database"
+  ],
+  "Remote access software": [
+    "remote access software",
+    "remote access software tools"
+  ],
+  "Remote authentication dial-in user service RADIUS software": [
+    "remote authentication dial-in user service radius software",
+    "radius",
+    "remote authentication dial-in user service"
+  ],
+  "Remote control software": [
+    "remote control software",
+    "remote control",
+    "remote access software"
+  ],
+  "Remote desktop control software": [
+    "remote desktop control software",
+    "remote desktop"
+  ],
+  "Remote monitoring software": [
+    "remote monitoring software",
+    "remote monitoring"
+  ],
+  "RequireJS": ["requirejs"],
+  "Requirements management software": [
+    "requirements management software",
+    "requirements management"
+  ],
+  "Resource management software": [
+    "resource management software",
+    "resource management"
+  ],
+  "Restructured extended executor REXX": [
+    "restructured extended executor rexx",
+    "restructured extended executor",
+    "rexx"
+  ],
+  "Retargetable compiler": ["retargetable compiler"],
+  "Revision control software": [
+    "revision control software",
+    "revision control",
+    "version control"
+  ],
+  "Risk assessment software": [
+    "risk assessment software",
+    "risk assessment",
+    "risk management"
+  ],
+  "Riverbed Technology": ["riverbed technology", "riverbed"],
+  "Root cause analysis software": [
+    "root cause analysis software",
+    "root cause analysis",
+    "root cause"
+  ],
+  "Root kit detection software": ["root kit detection software"],
+  "Ruby": ["ruby"],
+  "Ruby on Rails": ["ruby on rails"],
+  "Safe Software FME": ["safe software fme", "safe software"],
+  "Sage 50 Accounting": ["sage 50 accounting"],
+  "Salesforce": ["salesforce"],
+  "Salesforce software": ["salesforce software"],
+  "SAP": ["sap"],
+  "SAP Adaptive Server Enterprise": ["sap adaptive server enterprise"],
+  "SAP Business Intelligence": ["sap business intelligence", "sap bi"],
+  "SAP Business Objects": ["sap business objects"],
+  "SAP BusinessObjects Data Integrator": [
+    "sap businessobjects data integrator"
+  ],
+  "SAP BusinessObjects Desktop Intelligence": [
+    "sap businessobjects desktop intelligence"
+  ],
+  "SAP Crystal Reports": ["sap crystal reports"],
+  "SAP Master Data Management MDM": [
+    "sap master data management mdm",
+    "sap mdm",
+    "sap master data management"
+  ],
+  "SAP NetWeaver": ["sap netweaver"],
+  "SAP NetWeaver BW": ["sap netweaver bw"],
+  "SAP PowerBuilder": ["sap powerbuilder"],
+  "SAP PowerDesigner": ["sap powerdesigner"],
+  "SAP Replication Server": ["sap replication server"],
+  "SAS": ["sas"],
+  "SAS Data Integration Studio": ["sas data integration studio"],
+  "Scheduling software": ["scheduling software", "scheduling tools"],
+  "Scheme": ["scheme"],
+  "Scheme programming language": ["scheme programming language"],
+  "Sciforma": ["sciforma"],
+  "Scriptella": ["scriptella"],
+  "Secure internet filtering software": ["secure internet filtering software"],
+  "Secure shell SSH software": [
+    "secure shell ssh software",
+    "ssh",
+    "secure shell"
+  ],
+  "Security incident management software": [
+    "security incident management software",
+    "incident management"
+  ],
+  "Security risk assessment software": [
+    "security risk assessment software",
+    "risk assessment"
+  ],
+  "Security testing software": [
+    "security testing software",
+    "security testing"
+  ],
+  "Segue SilkPerformer": ["segue silkperformer", "silkperformer"],
+  "Selenium": ["selenium"],
+  "SeleniumHQ": ["seleniumhq"],
+  "Self": ["self"],
+  "SentryOne SQL Sentry": ["sentryone sql sentry"],
+  "Session Initiation Protocol SIP": [
+    "session initiation protocol sip",
+    "sip",
+    "session initiation protocol"
+  ],
+  "SharedPlan Software SharedPlan Pro": [
+    "sharedplan software sharedplan pro",
+    "sharedplan pro"
+  ],
+  "Shell script": ["shell script"],
+  "Siemens Teamcenter": ["siemens teamcenter", "teamcenter"],
+  "Silver Peak": ["silver peak"],
+  "Simple API for XML SAX": [
+    "simple api for xml sax",
+    "sax",
+    "simple api for xml"
+  ],
+  "Simple mail transfer protocol SMTP": [
+    "simple mail transfer protocol smtp",
+    "simple mail transfer protocol",
+    "smtp"
+  ],
+  "Simple network management protocol SNMP software": [
+    "simple network management protocol snmp software",
+    "simple network management protocol",
+    "snmp"
+  ],
+  "Simulation program with integrated circuit emphasis SPICE": [
+    "simulation program with integrated circuit emphasis spice",
+    "simulation program with integrated circuit emphasis",
+    "spice"
+  ],
+  "Sitecore CMS": ["sitecore cms", "sitecore content management system"],
+  "Smalltalk": ["smalltalk"],
+  "Smart card management software": [
+    "smart card management software",
+    "smart card management"
+  ],
+  "SmartBear Software Automated Build Studio": [
+    "smartbear software automated build studio",
+    "automated build studio"
+  ],
+  "SmartBear Software AutomatedQA TestComplete": [
+    "smartbear software automatedqa testcomplete",
+    "automatedqa testcomplete"
+  ],
+  "Smartsheet": ["smartsheet"],
+  "SMSi Twister Data Integrator": [
+    "smsi twister data integrator",
+    "smith micro softwate inc twister data integrator"
+  ],
+  "Sniffer Investigator": ["sniffer investigator"],
+  "Snort": ["snort"],
+  "Software asset management SAM software": [
+    "software asset management sam software",
+    "asset management",
+    "sam"
+  ],
+  "Software distribution management software": [
+    "software distribution management software",
+    "distribution management",
+    "distribution software",
+    "distribution erp"
+  ],
+  "Software distribution software": [
+    "software distribution software",
+    "software distribution"
+  ],
+  "SolarWinds": ["solarwinds"],
+  "Source code editor software": [
+    "source code editor software",
+    "source-code editor"
+  ],
+  "Source code migration software": [
+    "source code migration software",
+    "migration software",
+    "source code migration"
+  ],
+  "SpectraQuest": ["spectraquest"],
+  "Splunk Enterprise": ["splunk enterprise"],
+  "Spring": ["spring"],
+  "Spring Framework": ["spring framework"],
+  "Stac Software ReachOut": ["stac software reachout"],
+  "Stack smashing protection SSP software": [
+    "stack smashing protection ssp software",
+    "stack smashing protection",
+    "ssp"
+  ],
+  "Stage compiler": ["stage compiler"],
+  "Standpipe Studios Vertabase": [
+    "standpipe studios vertabase",
+    "vertabase pro",
+    "standpipe studios llc"
+  ],
+  "StataCorp Stata": ["statacorp stata", "stata"],
+  "Static analysis software": ["static analysis software", "static analysis"],
+  "Storage area network SAN software": [
+    "storage area network san software",
+    "storage area network",
+    "san"
+  ],
+  "Storage management software": [
+    "storage management software",
+    "storage management"
+  ],
+  "Stress testing software": ["stress testing software", "stress testing"],
+  "String oriented symbolic language SNOBOL": [
+    "string oriented symbolic language snobol",
+    "snobol",
+    "string oriented symbolic language"
+  ],
+  "Structure prediction software": [
+    "structure prediction software",
+    "structure prediction"
+  ],
+  "Structured query language SQL": [
+    "structured query language sql",
+    "structured query language",
+    "sql",
+    "mysql",
+    "postgresql",
+    "microsoft db",
+    "oracle db"
+  ],
+  "Structured Query Report SQR": [
+    "structured query report sqr",
+    "structured query report",
+    "sqr"
+  ],
+  "Stylite eGroupWare": ["stylite egroupware"],
+  "Subversion": ["subversion", "apache subversion"],
+  "Sun Microsystems Java 2 Platform Enterprise Edition J2EE": [
+    "sun microsystems java 2 platform enterprise edition j2ee",
+    "java 2 platform enterprise edition",
+    "j2ee"
+  ],
+  "Sun Microsystems Sun ONE": [
+    "sun microsystems sun one",
+    "sun one",
+    "sun microsystems"
+  ],
+  "Swift": ["swift"],
+  "Sybase": ["sybase"],
+  "Symantec": ["symantec"],
+  "Symantec Blue Coat Data Loss Prevention": [
+    "symantec blue coat data loss prevention",
+    "blue coat dlp"
+  ],
+  "Symantec Endpoint Protection": ["symantec endpoint protection"],
+  "Symantec Ghost Solution Suite": ["symantec ghost solution suite"],
+  "Symantec Intruder Alert": ["symantec intruder alert"],
+  "Symantec Norton Antivirus": ["symantec norton antivirus", "norton"],
+  "Symantec pcAnywhere": ["symantec pcanywhere"],
+  "Symantec Visual Cafe": ["symantec visual cafe"],
+  "Symark PowerBroker": ["symark powerbroker"],
+  "Symbolic debugger software": [
+    "symbolic debugger software",
+    "symbolic debugger"
+  ],
+  "System and data disaster recovery software": [
+    "system and data disaster recovery software",
+    "disaster recovery",
+    "system recovery",
+    "data recovery"
+  ],
+  "System testing software": ["system testing software", "system testing"],
+  "Systems and application deployment software": [
+    "systems and application deployment software",
+    "deployment software",
+    "application deployment",
+    "deployment tool"
+  ],
+  "Systems and applications migration software": [
+    "systems and applications migration software",
+    "migration"
+  ],
+  "Systems and data disaster recovery software": [
+    "systems and data disaster recovery software",
+    "disaster recovery",
+    "system recovery",
+    "data recovery"
+  ],
+  "Systems integration software": [
+    "systems integration software",
+    "systems integration"
+  ],
+  "Tableau": ["tableau"],
+  "Talend Big Data Integration": [
+    "talend big data integration",
+    "talend data integration"
+  ],
+  "Talend Data Fabric": ["talend data fabric"],
+  "Talend Open Studio": ["talend open studio"],
+  "TaskJuggler": ["taskjuggler"],
+  "Tax software": ["tax software"],
+  "Tcpdump": ["tcpdump"],
+  "TeamDynamixHE": ["teamdynamixhe"],
+  "Tenable Nessus": ["tenable nessus"],
+  "Tenrox Project Workforce Management": [
+    "tenrox project workforce management",
+    "tenrox project"
+  ],
+  "Teradata Active Enterprise Data Warehouse": [
+    "teradata active enterprise data warehouse",
+    "teradata active edw"
+  ],
+  "Teradata Database": ["teradata database", "teradata db"],
+  "Test data generator software": [
+    "test data generator software",
+    "test data generation",
+    "generator data"
+  ],
+  "Test design software": ["test design software", "test design"],
+  "Test implementation software": [
+    "test implementation software",
+    "implementation testing",
+    "test implementation",
+    "software testing implementation"
+  ],
+  "TestNG": ["testng"],
+  "The MathWorks MATLAB": [
+    "the mathworks matlab",
+    "matlab",
+    "matrix laboratory"
+  ],
+  "The MathWorks Simulink": ["the mathworks simulink"],
+  "The Omni Group OmniPlan": ["the omni group omniplan", "omniplan"],
+  "ThoughtWorks Studio Mingle": ["thoughtworks studio mingle", "mingle"],
+  "Threaded code compiler": ["threaded code compiler"],
+  "Ticket information tracking software": [
+    "ticket information tracking software",
+    "online ticketing",
+    "ticket tracker",
+    "help desk ticket tracking software",
+    "ticket management"
+  ],
+  "Tier generator software": ["tier generator software", "data tier generator"],
+  "Tigris Cabie": [
+    "tigris cabie",
+    "cabie automated build",
+    "cabie.tigris.org",
+    "cabie"
+  ],
+  "Time reporting software": ["time reporting software", "time tracking"],
+  "Time sharing option TSO software": [
+    "time sharing option tso software",
+    "time sharing option",
+    "tso"
+  ],
+  "Tivoli": ["tivoli"],
+  "TKSoftware": ["tksoftware"],
+  "ToadSoft Toad": ["toadsoft toad", "toad"],
+  "Transact-SQL": ["transact-sql"],
+  "Transparent Interconnection of Lots of Links TRILL": [
+    "transparent interconnection of lots of links trill",
+    "transparent interconnection of lots of links",
+    "trill"
+  ],
+  "Travis": ["travis", "travis ci", "travis continous integration"],
+  "Trend Micro TippingPoint": [
+    "trend micro tippingpoint",
+    "trend micro",
+    "tipping point"
+  ],
+  "Trimble SketchUp Pro": ["trimble sketchup pro", "trimble sketchup"],
+  "Twiki": ["twiki"],
+  "Ubuntu": ["ubuntu"],
+  "Unawave": ["unawave"],
+  "Unified modeling language UML": [
+    "unified modeling language uml",
+    "unified modeling language",
+    "uml"
+  ],
+  "Unit testing software": ["unit testing software", "unit testing"],
+  "UNIX": ["unix", "linux"],
+  "Usability testing software": [
+    "usability testing software",
+    "usability testing"
+  ],
+  "Verilog": ["verilog"],
+  "VERITAS NetBackup": ["veritas netbackup", "veritas", "netbackup"],
+  "Version control software": [
+    "version control software",
+    "version control",
+    "revision control"
+  ],
+  "Videoconferencing software": [
+    "videoconferencing software",
+    "videoconferencing"
+  ],
+  "Virage VS Archive": ["virage vs archive", "vs archive"],
+  "Virtual local area network management software": [
+    "virtual local area network management software",
+    "virtual local area network",
+    "virtual lan",
+    "vlan"
+  ],
+  "Virtual network computing VNC software": [
+    "virtual network computing vnc software",
+    "virtual network computing",
+    "vnc"
+  ],
+  "Virtual private networking VPN software": [
+    "virtual private networking vpn software",
+    "virtual private networking",
+    "vpn"
+  ],
+  "Virtual Router Redundancy Protocol VRRP": [
+    "virtual router redundancy protocol vrrp",
+    "virtual router redundancy protocol",
+    "vrrp"
+  ],
+  "Virus scanning software": [
+    "virus scanning software",
+    "virus scanning",
+    "antivirus",
+    "virus scan"
+  ],
+  "Visible Razor": ["visible razor"],
+  "Visual Paradigm DB Visual ARCHITECT": [
+    "visual paradigm db visual architect"
+  ],
+  "Vitria M3O Operational Intelligence": [
+    "vitria m3o operational intelligence"
+  ],
+  "VMWare": ["vmware", "vmw"],
+  "VMWare ESX Server": ["vmware esx server", "vmw esx server"],
+  "VMWare Workstation": ["vmware workstation", "vmw workstation"],
+  "Voice over internet protocol VoiP system software": [
+    "voice over internet protocol voip system software",
+    "voice over internet protocol",
+    "voip"
+  ],
+  "VSCOnline VPMi": ["vsconline vpmi"],
+  "Watir": ["watir"],
+  "WBS Goplan": ["wbs goplan", "wbs"],
+  "Web browser software": ["web browser software", "web browser"],
+  "Web server software": ["web server software", "web server"],
+  "Web service definition language WDSL": [
+    "web service definition language wdsl",
+    "web service definition language",
+    "wsdl"
+  ],
+  "web2project": ["web2project"],
+  "WebFOCUS": ["webfocus"],
+  "Websense Data Loss Prevention": [
+    "websense data loss prevention",
+    "websense dlp"
+  ],
+  "Wide area network WAN optimization software": [
+    "wide area network wan optimization software",
+    "wide area network",
+    "wan"
+  ],
+  "Wide area network WAN software": ["wide area network wan software"],
+  "Win CE": ["win ce", "windows embedded compact"],
+  "Wind River Systems VxWorks": ["wind river systems vxworks"],
+  "Wind River VxWorks": ["wind river vxworks"],
+  "WinMerge": ["winmerge"],
+  "Wireshark": ["wireshark"],
+  "WisdomForce DatabaseSync System": ["wisdomforce databasesync system"],
+  "Wise Solutions Wise for Windows Installer": [
+    "wise solutions wise for windows installer"
+  ],
+  "Workflow software": ["workflow software", "workflow"],
+  "Wrike": ["wrike"],
+  "Xcode": ["xcode"],
+  "Xerces2 Java Parser": ["xerces2 java parser"],
+  "XML Path Language XPATH": [
+    "xml path language xpath",
+    "xml path language",
+    "xpath"
+  ],
+  "Xplanner": ["xplanner"],
+  "xQuery": ["xquery"],
+  "YourKit Java Profiler": ["yourkit java profiler"],
+  "YouTube": ["youtube"],
+  "Zabbix": ["zabbix"],
+  "Zend Framework": ["zend framework"],
+  "Zoho Projects": ["zoho projects", "zoho"],
+  "Information Management": [
+    "information management",
+    "informations management",
+    "ecm",
+    "enterprise content management",
+    "electronic records management",
+    "erm",
+    "business process management",
+    "bpm",
+    "knowledge management",
+    "document management",
+    "social media governance"
+  ],
+  "Enterprise Resource Planning": [
+    "erp",
+    "enterprise resource planning",
+    "enterprice resource planning",
+    "microsoft dynamics",
+    "sap erp"
+  ],
+  "Supply Management": [
+    "supply management",
+    "supplies management",
+    "procurement"
+  ],
+  "Customer Relationship Management": [
+    "crm",
+    "sap",
+    "customer relationship management",
+    "customers relationship management",
+    "salesforce",
+    "sap crm",
+    "microsoft dynamics",
+    "peoplesoft",
+    "zoho",
+    "siebel",
+    "oracle on demand",
+    "hubspot",
+    "\\(crm-"
+  ],
+
+  "Innovative and Emerging Technologies": [
+    "emerging technologies",
+    "innovative technologies",
+    "blockchain",
+    "ai",
+    "artificial intelligence",
+    "kubernetes",
+    "image recognition",
+    "machine learning",
+    "distributed ledger technology",
+    "robotics",
+    "computer vision",
+    "deep learning",
+    "nlp",
+    "natural language processing",
+    "serverless architecture",
+    "virtual reality",
+    "cloud",
+    "innovative systems"
+  ],
+  "Leadership skills": ["manage", "lead", "managing", "organize", "organizing"],
+  "Management skills": [
+    "manage",
+    "supervise",
+    "supervising",
+    "managing",
+    "deliver",
+    "managed",
+    "lead",
+    "leading",
+    "supervised",
+    "led"
+  ],
+  "Design skills": ["design", "designing", "designed"],
+  "International Organization Experience": [
+    "international organization",
+    "un",
+    "icao",
+    "united nations"
+  ],
+  "eBusiness": ["electronic business", "e-business"],
+  "electronic documents": [
+    "electronic docs",
+    "digital documents",
+    "electronic documents",
+    "document management",
+    "documents management"
+  ],
+  "Records Management": [
+    "records management",
+    "record management",
+    "archive management",
+    "archives management",
+    "electronic record management",
+    "erm",
+    "ediscovery",
+    "record management application",
+    "rma",
+    "electronic report management",
+    "knowledge management",
+    "archive solutions"
+  ],
+  "Business Solutions": [
+    "business solutions",
+    "system architect",
+    "enterprice solutions",
+    "information system solutions",
+    "information management system solutions",
+    "business design",
+    "it solutions",
+    "information technology solutions",
+    "innovative solutions",
+    "it systems"
+  ],
+  "Electronic Documents and Records Management": [
+    "electronic documents and records management",
+    "electronic documents records management",
+    "erdms",
+    "edms",
+    "electronic records management systems",
+    "documents management",
+    "records management",
+    "record management",
+    "archive management",
+    "archives management",
+    "electronic report management",
+    "document management",
+    "knowledge management",
+    "archive solutions",
+    "electronic documents"
+  ],
+  "AWS": ["aws", "amazon cloud", "amazon web services"],
+  "Azure": ["azure", "microsoft cloud", "microsoft azure cloud"],
+  "Natural Language Processing": [
+    "natural language processing",
+    "natural languages processing",
+    "nlp",
+    "spacy",
+    "nltk"
+  ],
+  "Cloud": [
+    "cloud",
+    "aws",
+    "azure",
+    "amazon cloud",
+    "microsoft cloud",
+    "google cloud"
+  ],
+  "DevOps": [
+    "devops",
+    "jenkins",
+    "docker",
+    "ansible",
+    "git",
+    "kebernetes",
+    "nagios"
+  ],
+  "Machine Learning": ["machine learning", "classification model"],
+  "Deep Learning": ["deep learning", "image classification", "rnn", "cnn"],
+  "Tensorflow": ["tensorflow"],
+  "Panda": ["panda"],
+  "Flask": ["flask"],
+  "Scrum": ["scrum"],
+  "Power BI": ["power bi"],
+  "Hyperledger": ["hyperledger"],
+  "Ethereum": ["ethereum", "etherium"],
+  "ReactJS": ["reactjs", "react.js", "react"],
+  "Vue.js": ["vuejs", "vue js"],
+  "Artificial Intelligence": ["artificial intelligence", "ai"],
+  "software development": [
+    "software development",
+    "developing software",
+    "application development",
+    "developing",
+    "debugging",
+    "coding",
+    "developed",
+    "built",
+    "development",
+    "build",
+    "developer"
+  ],
+  "User Support": ["user support", "supporting customer", "support"],
+  "Service Management": ["service management"],
+  "iOS": ["ios"],
+  "Systems administration": [
+    "systems administration",
+    "system administration",
+    "system administering",
+    "administration"
+  ]
+}
